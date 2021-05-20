@@ -33,11 +33,8 @@ características.
   - Pasajero (Nombre, C.I.)
   - Número de Asiento
   - Costo Especial
-
-
- **Crear 2 pasajes de cada tipo, y cambiar los datos del
- Pasajero/ Número de Asiento (*Todos los pasajes
- pertenecen al mismo vuelo*).**</br>
+  
+ ### Crear 2 pasajes de cada tipo, y cambiar los datos del Pasajero/ Número de Asiento (*Todos los pasajes pertenecen al mismo vuelo*).**
  
  ![Factory Method](https://github.com/AleS900/prueba/blob/master/assets/08-512.png)
  
