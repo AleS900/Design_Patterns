@@ -16,24 +16,23 @@ características.
   - Costo del Pasaje
 
 - **Pasaje Solidario**
--- Número de Vuelo
--- Destino (Pais, Ciudad, Aeropuerto)
--- Origen (Pais, Ciudad, Aeropuerto)
--- Avión (Marca, Capacidad, Modelo, Número de Asientos)
--- Pasajero (Nombre, C.I.)
--- Número de Asiento
--- Costo del Pasaje
--- Descuento
--- Motivo del Descuento
+  - Número de Vuelo
+  - Destino (Pais, Ciudad, Aeropuerto)
+  - Origen (Pais, Ciudad, Aeropuerto)
+  - Avión (Marca, Capacidad, Modelo, Número de Asientos)
+  - Pasajero (Nombre, C.I.)
+  - Número de Asiento
+  - Costo del Pasaje
+  - Motivo del Descuento
 
 - **Pasaje Infantes**
--- Número de Vuelo
--- Destino (Pais, Ciudad, Aeropuerto)
--- Origen (Pais, Ciudad, Aeropuerto)
--- Avión (Marca, Capacidad, Modelo, Número de Asientos)
--- Pasajero (Nombre, C.I.)
--- Número de Asiento
--- Costo Especial
+  - Número de Vuelo
+  - Destino (Pais, Ciudad, Aeropuerto)
+  - Origen (Pais, Ciudad, Aeropuerto)
+  - Avión (Marca, Capacidad, Modelo, Número de Asientos)
+  - Pasajero (Nombre, C.I.)
+  - Número de Asiento
+  - Costo Especial
 
 
  **Crear 2 pasajes de cada tipo, y cambiar los datos del
