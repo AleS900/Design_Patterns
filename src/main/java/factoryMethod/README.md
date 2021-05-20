@@ -7,13 +7,13 @@ pasaje este pasaje puede tener las siguientes
 características.
 
 - **Pasaje Standart**
---Número de Vuelo
---Destino (Pais, Ciudad, Aeropuerto)
---Origen (Pais, Ciudad, Aeropuerto)
---Avión (Marca, Capacidad, Modelo, Número de Asientos)
---Pasajero (Nombre, C.I.)
---Número de Asiento
---Costo del Pasaje
+  - Número de Vuelo
+  - Destino (Pais, Ciudad, Aeropuerto)
+  - Origen (Pais, Ciudad, Aeropuerto)
+  - Avión (Marca, Capacidad, Modelo, Número de Asientos)
+  - Pasajero (Nombre, C.I.)
+  - Número de Asiento
+  - Costo del Pasaje
 
 - **Pasaje Solidario**
 -- Número de Vuelo
