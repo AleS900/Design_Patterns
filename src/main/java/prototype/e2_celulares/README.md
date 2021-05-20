@@ -1,4 +1,5 @@
-* Ejercicio 2
+# Ejercicio 2
+# Registro Dispositivos Móviles
 
 Se tiene un distribuidor de celulares que tambien asigna líneas telefónicas (SIM), y este además, maneja modelos controlados. </br>
 Se quiere tener un registro de los celulares vendidos.
@@ -15,4 +16,6 @@ Caracterísitcas del celular (*Samsumg R10*)
 - Tipo de Bateria
 - Accesorios (Audífonos, Cargador, Estuche)
 
-**Crear 3 celulares de tipo Samsung R10**
+**Crear 3 celulares de tipo Samsung R10**</br>
+
+![Money Exchange](https://github.com/AleS900/prueba/blob/master/assets/casa-de-cambio-3.png)
