@@ -1,4 +1,9 @@
 # Patrón De Diseño Singleton
+
+## Ejercicios
+-  [Ejercicio 1: Casa De Cambio](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/singleton/e1_casa_de_cambios)
+
+## Introducción
 En *ingeniería de software*, **singleton** o instancia única es un *patrón de diseñ*o que permite restringir la creación de objetos pertenecientes a una clase o el valor de un tipo a un único objeto.
 
 Su intención consiste en garantizar que una clase solo tenga una instancia y proporcionar un punto de acceso global a ella.
