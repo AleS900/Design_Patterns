@@ -1,4 +1,4 @@
-**Ejercicio 2
+* Ejercicio 2
 
 Se tiene un distribuidor de celulares que tambien asigna líneas telefónicas (SIM), y este además, maneja modelos controlados. </br>
 Se quiere tener un registro de los celulares vendidos.
