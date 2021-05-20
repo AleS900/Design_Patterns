@@ -18,4 +18,4 @@ Caracterísitcas del celular (*Samsumg R10*)
 
 **Crear 3 celulares de tipo Samsung R10**</br>
 
-![Money Exchange](https://github.com/AleS900/prueba/blob/master/assets/casa-de-cambio-3.png)
+![Money Exchange](https://github.com/AleS900/prueba/blob/master/assets/hombre-persona-chateando-celular-mujer_92289-409.jpg)
