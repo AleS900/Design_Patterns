@@ -1,44 +1,13 @@
-# Ejercicio 3
+# Patrón De Diseño Factory Method
 
-Se tiene una *aerolínea*, que se encarga de manejar la
-venta de pasajes, esta aerolínea tiene muchos viajes
-frecuentes que ofrecer; cuando necesita vender un
-pasaje este pasaje puede tener las siguientes
-características.
+## Ejercicios
+-  [Ejercicio 3: Pasajes Aerolínea ](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/factoryMethod/e3_pasajes_aerolinea)
 
-- **Pasaje Standart**
-  - Número de Vuelo
-  - Destino (Pais, Ciudad, Aeropuerto)
-  - Origen (Pais, Ciudad, Aeropuerto)
-  - Avión (Marca, Capacidad, Modelo, Número de Asientos)
-  - Pasajero (Nombre, C.I.)
-  - Número de Asiento
-  - Costo del Pasaje
-
-- **Pasaje Solidario**
-  - Número de Vuelo
-  - Destino (Pais, Ciudad, Aeropuerto)
-  - Origen (Pais, Ciudad, Aeropuerto)
-  - Avión (Marca, Capacidad, Modelo, Número de Asientos)
-  - Pasajero (Nombre, C.I.)
-  - Número de Asiento
-  - Costo del Pasaje
-  - Motivo del Descuento
-
-- **Pasaje Infantes**
-  - Número de Vuelo
-  - Destino (Pais, Ciudad, Aeropuerto)
-  - Origen (Pais, Ciudad, Aeropuerto)
-  - Avión (Marca, Capacidad, Modelo, Número de Asientos)
-  - Pasajero (Nombre, C.I.)
-  - Número de Asiento
-  - Costo Especial
-  
- ### Crear 2 pasajes de cada tipo, y cambiar los datos del Pasajero/ Número de Asiento (*Todos los pasajes pertenecen al mismo vuelo*).
+## Introducción
+El patrón de **Método de Fábrica** o **Factory Method** es un *patrón de creación* que utiliza métodos de fábrica para tratar el problema de crear objetos sin tener que especificar la clase exacta del objeto que se creará. Esto se hace creando objetos llamando a un método de fábrica, ya sea especificado en una interfaz e implementado por clases secundarias, o implementado en una clase base y opcionalmente anulado por clases derivadas, en lugar de llamar a un constructor .<br/>
  </br>
  <p align="center">
-    <img src="https://github.com/AleS900/prueba/blob/master/assets/08-512.png" />
+    <img src="https://github.com/AleS900/prueba/blob/master/assets/factory-method-es.png" />
  </p>
- 
  
  
