@@ -26,7 +26,7 @@ public class Switch_Enum {
                         System.err.println("- Miércoles: Confirmo que Enum en Java se puede usar en el caso de Switch.");
                         break;
                     case THURSDAY:
-                        System.err.println("- Jueves   : Descubro que el método: Java Enum values() nos dadevuelve todas los Enum en una arreglo.");
+                        System.err.println("- Jueves   : Descubro que el método: Java Enum values() nos devuelve todos los Enum en una arreglo.");
                         break;
                     case FRIDAY:
                         System.err.println("- Viernes  : Me doy cuenta de que Enum también se puede utilizar en la declaración de CASE.");
