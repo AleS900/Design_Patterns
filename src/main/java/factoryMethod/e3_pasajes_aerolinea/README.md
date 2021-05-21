@@ -1,4 +1,4 @@
-# Ejercicio 3
+# Ejercicio 3 - Pasajes Aerolínea
 
 Se tiene una *aerolínea*, que se encarga de manejar la
 venta de pasajes, esta aerolínea tiene muchos viajes
