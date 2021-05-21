@@ -12,7 +12,7 @@ Cada patrón describe un problema que ocurre una y otra vez en nuestro entorno y
     <img src="https://github.com/AleS900/prueba/blob/master/assets/1_nwakpRp_GabhICWPNw5VDQ.png" />
  </p>
 
-#### *¨Los patrones de diseño son unas técnicas para resolver problemas comunes en el desarrollo de software¨*</br>
+#### *                      ¨Los patrones de diseño son unas técnicas para resolver problemas comunes en el desarrollo de software¨*</br>
 
 ## Objetivos
 1. Proporcionar catálogos de elementos reusables en el diseño de sistemas software.
