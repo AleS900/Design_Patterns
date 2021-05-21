@@ -7,10 +7,10 @@ Se tiene una *Empresa de Cambio de Moneda*s que maneja en tipo de cambio de mone
 Existen además diferentes lugares donde yo puedo realizar el cambio *(Banco / Casas De Cambios / LibreCambistas)*</br>
 
 - **Ejemplos**
-  - **B  <--- 70 Bs ----> 10 $**
+  - **B   <--- 70 Bs ----> 10 $**
   - **CC <--- 70 Bs ----> 10 $**
   - **LC <--- 70 Bs ----> 10 $**
-  - **B  <--- 70 Bs ----> 10 $**
+  - **B   <--- 70 Bs ----> 10 $**
   - **CC <--- 10 $  ----> 70 Bs**
   - **LC <---  1 €  ---->  9 Bs**
 
