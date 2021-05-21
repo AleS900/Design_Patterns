@@ -35,11 +35,10 @@ características.
   - Costo Especial
   
  ### Crear 2 pasajes de cada tipo, y cambiar los datos del Pasajero/ Número de Asiento (*Todos los pasajes pertenecen al mismo vuelo*).
- 
+ </br>
  <p align="center">
     <img src="https://github.com/AleS900/prueba/blob/master/assets/08-512.png" />
  </p>
  
- ![Factory Method](https://github.com/AleS900/prueba/blob/master/assets/08-512.png)
  
  
