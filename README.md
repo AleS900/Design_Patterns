@@ -7,6 +7,10 @@ Cada ejercicio y/o carpeta de archivos contiene un archivo **README** separado d
 Un patrón de diseño es una descripción de clases y objetos comunicándose entre sí adaptada para resolver un problema de diseño general en un contexto particular.
 
 Cada patrón describe un problema que ocurre una y otra vez en nuestro entorno y describe también el núcleo de la solución al problema, de forma que puede utilizarse un millón de veces sin tener que hacer dos veces lo mismo.</br>
+ </br>
+ <p align="center">
+    <img src="https://github.com/AleS900/prueba/blob/master/assets/1_nwakpRp_GabhICWPNw5VDQ.png" />
+ </p>
 
 #### *¨Los patrones de diseño son unas técnicas para resolver problemas comunes en el desarrollo de software¨*</br>
 
