@@ -4,7 +4,7 @@ Se tiene una *aerolínea*, que se encarga de manejar la
 venta de pasajes, esta aerolínea tiene muchos viajes
 frecuentes que ofrecer; cuando necesita vender un
 pasaje este pasaje puede tener las siguientes
-características.
+características:
 
 - **Pasaje Standart**
   - Número de Vuelo
