@@ -14,7 +14,8 @@ Existen además diferentes lugares donde yo puedo realizar el cambio *(Banco / C
   - **CC <--- 10$ ----> 70bs**
   - **LC <--- 1E ----> 9bs**
 
-### Crear un programa que soporte este proceso</br>
+### Crear un programa que soporte este proceso.</br>
+
  </br>
  <p align="center">
     <img src="https://github.com/AleS900/prueba/blob/master/assets/casa-de-cambio-3.png" />
