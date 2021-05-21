@@ -35,7 +35,7 @@ public class Switch_Enum {
                         System.err.println("- Sábado   : Me sorprendo de saber que Enum en Java tiene una complejidad de ejecución constante.");
                         break;
                     case SUNDAY:
-                        System.err.println("- Domingo  : Concluyo que: USAR ENUM EN SWITCH ES MUY FÁCIL. :)");
+                        System.err.println("- Domingo  : Concluyo que: USAR ENUM EN SWITCH ES MUY FACIL. :)");
                         break;
 
                 }

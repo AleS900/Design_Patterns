@@ -22,7 +22,7 @@ prototype/e2_celulares/RegistroDispositivo.java
  prototype.e2_celulares.RegistroDispositivo
 prototype/e2_celulares/Client.java
  prototype.e2_celulares.Client
-Borrador/Switch_Enum.java
- Borrador.Switch_Enum
- Borrador.Switch_Enum$1
- Borrador.Switch_Enum$Day
+Extras/Switch_Enum.java
+ Extras.Switch_Enum
+ Extras.Switch_Enum$1
+ Extras.Switch_Enum$Day
