@@ -16,19 +16,19 @@ preparcaión e ingredientes específicos:
   - Base (Nombre, Tamaño, Tipo, Costo)
 
 - **Helado de Crema**
-  -Tamaño
-  -Forma
-  -Fruta (Tipo de Fruta, Nombre , Tamaño, Precio)
-  -Base (Nombre, Tamaño, Tipo, Costo)
-  -Crema (Sabor, Marca, Costo)
+  - Tamaño
+  - Forma
+  - Fruta (Tipo de Fruta, Nombre , Tamaño, Precio)
+  - Base (Nombre, Tamaño, Tipo, Costo)
+  - Crema (Sabor, Marca, Costo)
 
 - **Helados Mixto**
-  -Tamaño
-  -Forma
-  -Fruta (Tipo de Fruta, Nombre , Tamaño, Precio)
-  -Base (Nombre, Tamaño, Tipo, Costo)
-  -Crema (Sabor, Marca, Costo)
-  -Precio
+  - Tamaño
+  - Forma
+  - Fruta (Tipo de Fruta, Nombre , Tamaño, Precio)
+  - Base (Nombre, Tamaño, Tipo, Costo)
+  - Crema (Sabor, Marca, Costo)
+  - Precio
 
 ### Crear 3 objetos de cada tipo de helado (en total 9).
 
