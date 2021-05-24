@@ -1,4 +1,4 @@
-# Ejercicio 5 - Heladería
+# Ejercicio 4 - Heladería
 
 Una dispensadora de helados realiza distintos
 tipo de helados como ser :
