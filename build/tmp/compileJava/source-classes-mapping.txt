@@ -26,3 +26,23 @@ Extras/Switch_Enum.java
  Extras.Switch_Enum
  Extras.Switch_Enum$1
  Extras.Switch_Enum$Day
+abstractFactory/e4_heladeria/IHelado.java
+ abstractFactory.e4_heladeria.IHelado
+abstractFactory/e4_heladeria/Fruta.java
+ abstractFactory.e4_heladeria.Fruta
+abstractFactory/e4_heladeria/Base.java
+ abstractFactory.e4_heladeria.Base
+abstractFactory/e4_heladeria/HeladoAgua.java
+ abstractFactory.e4_heladeria.HeladoAgua
+abstractFactory/e4_heladeria/HeladoCrema.java
+ abstractFactory.e4_heladeria.HeladoCrema
+abstractFactory/e4_heladeria/Crema.java
+ abstractFactory.e4_heladeria.Crema
+abstractFactory/e4_heladeria/HeladoMixto.java
+ abstractFactory.e4_heladeria.HeladoMixto
+abstractFactory/e4_heladeria/FactoryHelado.java
+ abstractFactory.e4_heladeria.FactoryHelado
+ abstractFactory.e4_heladeria.FactoryHelado$1
+ abstractFactory.e4_heladeria.FactoryHelado$typeHelado
+abstractFactory/e4_heladeria/Client.java
+ abstractFactory.e4_heladeria.Client

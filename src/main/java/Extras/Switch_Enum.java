@@ -2,8 +2,8 @@ package Extras;
 
 public class Switch_Enum {
  /*
--- Programa Java para demostrar cómo usar Enum en la declaración del caso de Switch.
--- Enum se puede usar en un bloque de interruptores similar al patrón primitivo int o enum int.
+-- Programa Java para demostrar cómo usar Enum en la declaración de Switch Case.
+-- Enum se puede usar en un bloque de interruptores similar al patrón de int nativo o enum int.
 -- Enum también se puede usar en la instrucción CASE para tomar la acción apropiada basada en la instancia de Enum.
 */
         public enum Day {
