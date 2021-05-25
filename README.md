@@ -31,11 +31,13 @@ abstraer la creación.
 -  [Prototype](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/prototype)
 -  [Factory Method](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/factoryMethod)
 -  [Abstract Factory](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/abstractFactory)
+-  [Builder](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/builder)
 
 ## Ejercicios
 -  [Ejercicio 1: Casa De Cambio](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/singleton/e1_casa_de_cambios)
 -  [Ejercicio 2: Registro Dispositivos Móviles ](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/prototype/e2_celulares)
 -  [Ejercicio 3: Pasajes de Avión](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/factoryMethod/e3_pasajes_aerolinea)
 -  [Ejercicio 4: Heladería](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/abstractFactory/e4_heladeria)
+-  [Ejercicio 4: Restaurante de Pizzas](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/builder/e5_restaurante_de_pizzas)
 -  [Ejercicio EXTRA: Switch Case Utilizando Enum](https://github.com/AleS900/Design_Patterns/blob/main/src/main/java/Extras/Switch_Enum.java)
 
