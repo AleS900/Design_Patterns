@@ -18,5 +18,5 @@ Se quiere tener un *registro* de los celulares vendidos.
 ### Crear 3 celulares de tipo Samsung R10.</br>
  </br>
  <p align="center">
-    <img src="https://github.com/AleS900/prueba/blob/master/assets/36dfa070357ed68740e3391d8f34e55d.png" />
+    <img src="https://github.com/AleS900/prueba/blob/master/assets/hombre-persona-chateando-celular-mujer_92289-409.jpg" />
  </p>
