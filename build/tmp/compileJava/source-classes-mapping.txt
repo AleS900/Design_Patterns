@@ -46,3 +46,17 @@ abstractFactory/e4_heladeria/FactoryHelado.java
  abstractFactory.e4_heladeria.FactoryHelado$typeHelado
 abstractFactory/e4_heladeria/Client.java
  abstractFactory.e4_heladeria.Client
+builder/e5_restaurante_de_pizzas/BuilderPizza.java
+ builder.e5_restaurante_de_pizzas.BuilderPizza
+builder/e5_restaurante_de_pizzas/Pizza.java
+ builder.e5_restaurante_de_pizzas.Pizza
+builder/e5_restaurante_de_pizzas/Client.java
+ builder.e5_restaurante_de_pizzas.Client
+builder/e5_restaurante_de_pizzas/PizzaClasica.java
+ builder.e5_restaurante_de_pizzas.PizzaClasica
+builder/e5_restaurante_de_pizzas/PizzaHawaiana.java
+ builder.e5_restaurante_de_pizzas.PizzaHawaiana
+builder/e5_restaurante_de_pizzas/Pizzeria.java
+ builder.e5_restaurante_de_pizzas.Pizzeria
+builder/e5_restaurante_de_pizzas/PizzaCarnivora.java
+ builder.e5_restaurante_de_pizzas.PizzaCarnivora

@@ -1,0 +1,27 @@
+Ejercicio 5
+
+Se tiene un restaurante que se encarga de la
+preparacion de pizzas.
+
+Dichas pizzas tienes atributos comunes como ser
+Ingredientes, Tipo de Masa, Tipo de Queso.
+
+Se tiene además distintos tipos de pizzas
+
+* Pizza Carnivora
+  Ingredientes = Carne, Salza de Tomate, Otro.
+  Tipo de Masa = Masa Especial
+  Tipo de Queso = Queso Mozarella
+
+* Pizza Hawaina
+  Ingredientes = Piña, Salza de Tomate, Otro.
+  Tipo de Masa = Masa Normal
+  Tipo de Queso = Queso Mozarella Tipo 2
+
+* Pizza Clasica
+  Ingredientes = Salsa Tomate, Otro.
+  Tipo de Masa = Masa Especial
+  Tipo de Queso = Doble Queso Mozarella Tipo 2
+
+Elaborar 3 pizzas, una carnivora, una hawaiana y
+una clásica.
