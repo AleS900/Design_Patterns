@@ -4,7 +4,7 @@
 -  [Ejercicio 6: Números Romanos ](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/interpreter/e6_numeros_romanos)
 
 ## Introducción
-El interpreter es un *patrón de diseño* ***creacional*** que, dado un lenguaje, define una representación para su gramática junto con un intérprete del lenguaje.
+El interpreter es un *patrón de diseño* ***de comportamiento*** que, dado un lenguaje, define una representación para su gramática junto con un intérprete del lenguaje.
 
 Se usa para definir un lenguaje para representar expresiones regulares que representen cadenas a buscar dentro de otras cadenas. Además, en general, para definir un lenguaje que permita representar las distintas instancias de una familia de problemas.
 </br>
