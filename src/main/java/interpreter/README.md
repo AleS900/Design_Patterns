@@ -1,7 +1,7 @@
 # Patrón De Diseño Intepreter
 
 ## Ejercicios
--  [Ejercicio 6: Números Naturales A Números Romanos ](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/builder/e5_restaurante_de_pizzas)
+-  [Ejercicio 6: Números Romanos ](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/interpreter/e6_numeros_romanos)
 
 ## Introducción
 El interpreter es un *patrón de diseño* ***creacional*** que, dado un lenguaje, define una representación para su gramática junto con un intérprete del lenguaje.
