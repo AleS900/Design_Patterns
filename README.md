@@ -45,7 +45,7 @@ Los patrones de comportamiento tratan con algoritmos y la asignación de respons
 -  [Ejercicio 4: Heladería](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/abstractFactory/e4_heladeria)
 -  [Ejercicio 5: Restaurante de Pizzas](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/builder/e5_restaurante_de_pizzas)
 ### Patrones de Diseño De Comportamiento
--  [Ejercicio 5: Restaurante de Pizzas](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/interpreter/e6_numeros_romanos)
+-  [Ejercicio 6: Números Romanos](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/interpreter/e6_numeros_romanos)
 ### Extras
 -  [Ejercicio EXTRA: Switch Case Utilizando Enum](https://github.com/AleS900/Design_Patterns/blob/main/src/main/java/Extras/Switch_Enum.java)
 
