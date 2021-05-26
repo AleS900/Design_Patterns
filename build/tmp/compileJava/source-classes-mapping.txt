@@ -60,3 +60,17 @@ builder/e5_restaurante_de_pizzas/Pizzeria.java
  builder.e5_restaurante_de_pizzas.Pizzeria
 builder/e5_restaurante_de_pizzas/PizzaCarnivora.java
  builder.e5_restaurante_de_pizzas.PizzaCarnivora
+interpreter/e6_numeros_romanos/TerminalExpresion_I.java
+ interpreter.e6_numeros_romanos.TerminalExpresion_I
+interpreter/e6_numeros_romanos/AbstractExpresion.java
+ interpreter.e6_numeros_romanos.AbstractExpresion
+interpreter/e6_numeros_romanos/ContextRomanos.java
+ interpreter.e6_numeros_romanos.ContextRomanos
+interpreter/e6_numeros_romanos/TerminalExpresion_X.java
+ interpreter.e6_numeros_romanos.TerminalExpresion_X
+interpreter/e6_numeros_romanos/TerminalExpresion_V.java
+ interpreter.e6_numeros_romanos.TerminalExpresion_V
+interpreter/e6_numeros_romanos/InterpreterRomanos.java
+ interpreter.e6_numeros_romanos.InterpreterRomanos
+interpreter/e6_numeros_romanos/Client.java
+ interpreter.e6_numeros_romanos.Client
