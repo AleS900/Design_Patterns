@@ -1,6 +1,6 @@
 # Ejercicio 6
 
-Se tiene una expresión que se escribe en númerosnaturales (1 -- 10), se quiere interpretar estos en números romanos.
+Se tiene una expresión que se escribe en *números naturales* (1 -- 10), se quiere interpretar estos en *números romanos*.
 
 Es decir:</br>
 - **De:**</br>
@@ -11,3 +11,8 @@ Es decir:</br>
 ```
 I II III IV V VI VII VIII IX 
 ```
+### Interpretar dichos números natruales a números romanos.</br>
+ </br>
+ <p align="center">
+    <img src="https://github.com/AleS900/prueba/blob/master/assets/roamn.jpg" />
+ </p>
