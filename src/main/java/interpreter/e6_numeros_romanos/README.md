@@ -1,4 +1,4 @@
-# Ejercicio 6
+# Ejercicio 6 - Números Romanos
 
 Se tiene una expresión que se escribe en *números naturales* (1 -- 10), se quiere interpretar estos en *números romanos*.
 
