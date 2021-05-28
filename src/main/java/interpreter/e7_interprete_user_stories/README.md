@@ -14,8 +14,8 @@ When [actions]
 Then [value story]
 ```
 - **Ejemplo:**</br>
-- *Como administrador Quiero generar un reporte diario Para evaluar las ganancias*
-- *Given administrador When generar un reporte diario Then evaluar las ganancias*
+  - *Como administrador Quiero generar un reporte diario Para evaluar las ganancias*
+  - *Given administrador When generar un reporte diario Then evaluar las ganancias*
 
 ### Interpretar dichas User Stories.</br>
  </br>
