@@ -36,6 +36,7 @@ abstraer la creación.
 ## Patrones de Diseño De Comportamiento
 Los patrones de comportamiento tratan con algoritmos y la asignación de responsabilidades entre objetos.
 -  [Interpreter](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/interpreter)
+-  [Iterator](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/iterator)
 
 ## Ejercicios
 ### Patrones de Diseño Creacionales
@@ -46,6 +47,8 @@ Los patrones de comportamiento tratan con algoritmos y la asignación de respons
 -  [Ejercicio 5: Restaurante de Pizzas](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/builder/e5_restaurante_de_pizzas)
 ### Patrones de Diseño De Comportamiento
 -  [Ejercicio 6: Números Romanos](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/interpreter/e6_numeros_romanos)
+-  [Ejercicio 7: Interprete User Stories](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/interpreter/e7_interprete_user_stories)
+-  [Ejercicio 8: Empleados Empresa de Software](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/iterator/e8_empresa_de_software)
 ### Extras
 -  [Ejercicio EXTRA: Switch Case Utilizando Enum](https://github.com/AleS900/Design_Patterns/blob/main/src/main/java/Extras/Switch_Enum.java)
 
