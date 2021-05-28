@@ -1,5 +1,5 @@
-factoryMethod/e3_pasajes_aerolinea/CreatorPasajeSolidario.java
- factoryMethod.e3_pasajes_aerolinea.CreatorPasajeSolidario
+interpreter/e7_interprete_user_stories/TerminalExpressionQuiero.java
+ interpreter.e7_interprete_user_stories.TerminalExpressionQuiero
 abstractFactory/e4_heladeria/Client.java
  abstractFactory.e4_heladeria.Client
 abstractFactory/e4_heladeria/Crema.java
@@ -20,22 +20,24 @@ singleton/e1_casa_de_cambios/CasaDeCambio.java
  singleton.e1_casa_de_cambios.CasaDeCambio
 abstractFactory/e4_heladeria/Base.java
  abstractFactory.e4_heladeria.Base
-factoryMethod/e3_pasajes_aerolinea/PasajeEstandar.java
- factoryMethod.e3_pasajes_aerolinea.PasajeEstandar
+interpreter/e7_interprete_user_stories/TerminalExpressionOtros.java
+ interpreter.e7_interprete_user_stories.TerminalExpressionOtros
 factoryMethod/e3_pasajes_aerolinea/CreatorPasajeInfantes.java
  factoryMethod.e3_pasajes_aerolinea.CreatorPasajeInfantes
-abstractFactory/e4_heladeria/HeladoCrema.java
- abstractFactory.e4_heladeria.HeladoCrema
+interpreter/e7_interprete_user_stories/TerminalExpressionComo.java
+ interpreter.e7_interprete_user_stories.TerminalExpressionComo
 interpreter/e6_numeros_romanos/TerminalExpresion_I.java
  interpreter.e6_numeros_romanos.TerminalExpresion_I
+iterator/e8_empresa_de_software/IteratorEmpleadosList.java
+ iterator.e8_empresa_de_software.IteratorEmpleadosList
 prototype/e2_celulares/TarjetaSIM.java
  prototype.e2_celulares.TarjetaSIM
 builder/e5_restaurante_de_pizzas/Client.java
  builder.e5_restaurante_de_pizzas.Client
 builder/e5_restaurante_de_pizzas/PizzaHawaiana.java
  builder.e5_restaurante_de_pizzas.PizzaHawaiana
-prototype/e2_celulares/Client.java
- prototype.e2_celulares.Client
+interpreter/e7_interprete_user_stories/TerminalExpressionPara.java
+ interpreter.e7_interprete_user_stories.TerminalExpressionPara
 builder/e5_restaurante_de_pizzas/Pizzeria.java
  builder.e5_restaurante_de_pizzas.Pizzeria
 factoryMethod/e3_pasajes_aerolinea/Client.java
@@ -50,14 +52,20 @@ prototype/e2_celulares/IRegistroDispositivo.java
  prototype.e2_celulares.IRegistroDispositivo
 builder/e5_restaurante_de_pizzas/BuilderPizza.java
  builder.e5_restaurante_de_pizzas.BuilderPizza
-interpreter/e6_numeros_romanos/InterpreterRomanos.java
- interpreter.e6_numeros_romanos.InterpreterRomanos
+interpreter/e7_interprete_user_stories/InterpreterUserStory.java
+ interpreter.e7_interprete_user_stories.InterpreterUserStory
+singleton/e1_casa_de_cambios/EmpresaCambioMoneda.java
+ singleton.e1_casa_de_cambios.EmpresaCambioMoneda
 factoryMethod/e3_pasajes_aerolinea/Pasajero.java
  factoryMethod.e3_pasajes_aerolinea.Pasajero
 interpreter/e6_numeros_romanos/TerminalExpresion_X.java
  interpreter.e6_numeros_romanos.TerminalExpresion_X
+iterator/e8_empresa_de_software/IteratorEmpleadosStack.java
+ iterator.e8_empresa_de_software.IteratorEmpleadosStack
 factoryMethod/e3_pasajes_aerolinea/IPasaje.java
  factoryMethod.e3_pasajes_aerolinea.IPasaje
+factoryMethod/e3_pasajes_aerolinea/PasajeEstandar.java
+ factoryMethod.e3_pasajes_aerolinea.PasajeEstandar
 builder/e5_restaurante_de_pizzas/PizzaClasica.java
  builder.e5_restaurante_de_pizzas.PizzaClasica
 factoryMethod/e3_pasajes_aerolinea/CreatorPasajeEstandar.java
@@ -72,12 +80,20 @@ factoryMethod/e3_pasajes_aerolinea/Destino.java
  factoryMethod.e3_pasajes_aerolinea.Destino
 interpreter/e6_numeros_romanos/ContextRomanos.java
  interpreter.e6_numeros_romanos.ContextRomanos
+iterator/e8_empresa_de_software/IList.java
+ iterator.e8_empresa_de_software.IList
 interpreter/e6_numeros_romanos/Client.java
  interpreter.e6_numeros_romanos.Client
+iterator/e8_empresa_de_software/IteratorEmpleadosArray.java
+ iterator.e8_empresa_de_software.IteratorEmpleadosArray
 prototype/e2_celulares/Accesorios.java
  prototype.e2_celulares.Accesorios
+iterator/e8_empresa_de_software/Iterator.java
+ iterator.e8_empresa_de_software.Iterator
 factoryMethod/e3_pasajes_aerolinea/Avion.java
  factoryMethod.e3_pasajes_aerolinea.Avion
+iterator/e8_empresa_de_software/IteratorEmpleadosVector.java
+ iterator.e8_empresa_de_software.IteratorEmpleadosVector
 interpreter/e6_numeros_romanos/TerminalExpresion_V.java
  interpreter.e6_numeros_romanos.TerminalExpresion_V
 prototype/e2_celulares/RegistroDispositivo.java
@@ -90,8 +106,10 @@ factoryMethod/e3_pasajes_aerolinea/Origen.java
  factoryMethod.e3_pasajes_aerolinea.Origen
 abstractFactory/e4_heladeria/Fruta.java
  abstractFactory.e4_heladeria.Fruta
-singleton/e1_casa_de_cambios/EmpresaCambioMoneda.java
- singleton.e1_casa_de_cambios.EmpresaCambioMoneda
+interpreter/e7_interprete_user_stories/AbstractExpression.java
+ interpreter.e7_interprete_user_stories.AbstractExpression
+abstractFactory/e4_heladeria/HeladoCrema.java
+ abstractFactory.e4_heladeria.HeladoCrema
 prototype/e2_celulares/Persona.java
  prototype.e2_celulares.Persona
 interpreter/e6_numeros_romanos/AbstractExpresion.java
@@ -100,19 +118,23 @@ Extras/Switch_Enum.java
  Extras.Switch_Enum
  Extras.Switch_Enum$1
  Extras.Switch_Enum$Day
-abstractFactory/e4_heladeria/HeladoMixto.java
- abstractFactory.e4_heladeria.HeladoMixto
-interpreter/e7_interprete_user_stories/TerminalExpressionOtros.java
- interpreter.e7_interprete_user_stories.TerminalExpressionOtros
-interpreter/e7_interprete_user_stories/AbstractExpression.java
- interpreter.e7_interprete_user_stories.AbstractExpression
-interpreter/e7_interprete_user_stories/TerminalExpressionQuiero.java
- interpreter.e7_interprete_user_stories.TerminalExpressionQuiero
-interpreter/e7_interprete_user_stories/TerminalExpressionComo.java
- interpreter.e7_interprete_user_stories.TerminalExpressionComo
-interpreter/e7_interprete_user_stories/InterpreterUserStory.java
- interpreter.e7_interprete_user_stories.InterpreterUserStory
-interpreter/e7_interprete_user_stories/TerminalExpressionPara.java
- interpreter.e7_interprete_user_stories.TerminalExpressionPara
 interpreter/e7_interprete_user_stories/Client.java
  interpreter.e7_interprete_user_stories.Client
+abstractFactory/e4_heladeria/HeladoMixto.java
+ abstractFactory.e4_heladeria.HeladoMixto
+interpreter/e6_numeros_romanos/InterpreterRomanos.java
+ interpreter.e6_numeros_romanos.InterpreterRomanos
+prototype/e2_celulares/Client.java
+ prototype.e2_celulares.Client
+factoryMethod/e3_pasajes_aerolinea/CreatorPasajeSolidario.java
+ factoryMethod.e3_pasajes_aerolinea.CreatorPasajeSolidario
+iterator/e8_empresa_de_software/ListaEmpleadosArray.java
+ iterator.e8_empresa_de_software.ListaEmpleadosArray
+iterator/e8_empresa_de_software/ListaEmpleadosVector.java
+ iterator.e8_empresa_de_software.ListaEmpleadosVector
+iterator/e8_empresa_de_software/ListaEmpleadosList.java
+ iterator.e8_empresa_de_software.ListaEmpleadosList
+iterator/e8_empresa_de_software/ListaEmpleadosStack.java
+ iterator.e8_empresa_de_software.ListaEmpleadosStack
+iterator/e8_empresa_de_software/Client.java
+ iterator.e8_empresa_de_software.Client
