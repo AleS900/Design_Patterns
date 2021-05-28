@@ -1,76 +1,118 @@
-singleton/e1_casa_de_cambios/Client.java
- singleton.e1_casa_de_cambios.Client
-prototype/e2_celulares/Accesorios.java
- prototype.e2_celulares.Accesorios
-prototype/e2_celulares/Dispositivo.java
- prototype.e2_celulares.Dispositivo
-prototype/e2_celulares/IRegistroDispositivo.java
- prototype.e2_celulares.IRegistroDispositivo
-prototype/e2_celulares/TarjetaSIM.java
- prototype.e2_celulares.TarjetaSIM
-prototype/e2_celulares/Persona.java
- prototype.e2_celulares.Persona
-singleton/e1_casa_de_cambios/Banco.java
- singleton.e1_casa_de_cambios.Banco
-singleton/e1_casa_de_cambios/EmpresaCambioMoneda.java
- singleton.e1_casa_de_cambios.EmpresaCambioMoneda
-singleton/e1_casa_de_cambios/CasaDeCambio.java
- singleton.e1_casa_de_cambios.CasaDeCambio
-singleton/e1_casa_de_cambios/LibreCambista.java
- singleton.e1_casa_de_cambios.LibreCambista
-prototype/e2_celulares/RegistroDispositivo.java
- prototype.e2_celulares.RegistroDispositivo
-prototype/e2_celulares/Client.java
- prototype.e2_celulares.Client
-Extras/Switch_Enum.java
- Extras.Switch_Enum
- Extras.Switch_Enum$1
- Extras.Switch_Enum$Day
-abstractFactory/e4_heladeria/IHelado.java
- abstractFactory.e4_heladeria.IHelado
-abstractFactory/e4_heladeria/Fruta.java
- abstractFactory.e4_heladeria.Fruta
-abstractFactory/e4_heladeria/Base.java
- abstractFactory.e4_heladeria.Base
-abstractFactory/e4_heladeria/HeladoAgua.java
- abstractFactory.e4_heladeria.HeladoAgua
-abstractFactory/e4_heladeria/HeladoCrema.java
- abstractFactory.e4_heladeria.HeladoCrema
+factoryMethod/e3_pasajes_aerolinea/CreatorPasajeSolidario.java
+ factoryMethod.e3_pasajes_aerolinea.CreatorPasajeSolidario
+abstractFactory/e4_heladeria/Client.java
+ abstractFactory.e4_heladeria.Client
 abstractFactory/e4_heladeria/Crema.java
  abstractFactory.e4_heladeria.Crema
-abstractFactory/e4_heladeria/HeladoMixto.java
- abstractFactory.e4_heladeria.HeladoMixto
+prototype/e2_celulares/Dispositivo.java
+ prototype.e2_celulares.Dispositivo
+builder/e5_restaurante_de_pizzas/Pizza.java
+ builder.e5_restaurante_de_pizzas.Pizza
+factoryMethod/e3_pasajes_aerolinea/PasajeSolidario.java
+ factoryMethod.e3_pasajes_aerolinea.PasajeSolidario
+singleton/e1_casa_de_cambios/Banco.java
+ singleton.e1_casa_de_cambios.Banco
+singleton/e1_casa_de_cambios/LibreCambista.java
+ singleton.e1_casa_de_cambios.LibreCambista
+factoryMethod/e3_pasajes_aerolinea/CreatorPasajes.java
+ factoryMethod.e3_pasajes_aerolinea.CreatorPasajes
+singleton/e1_casa_de_cambios/CasaDeCambio.java
+ singleton.e1_casa_de_cambios.CasaDeCambio
+abstractFactory/e4_heladeria/Base.java
+ abstractFactory.e4_heladeria.Base
+factoryMethod/e3_pasajes_aerolinea/PasajeEstandar.java
+ factoryMethod.e3_pasajes_aerolinea.PasajeEstandar
+factoryMethod/e3_pasajes_aerolinea/CreatorPasajeInfantes.java
+ factoryMethod.e3_pasajes_aerolinea.CreatorPasajeInfantes
+abstractFactory/e4_heladeria/HeladoCrema.java
+ abstractFactory.e4_heladeria.HeladoCrema
+interpreter/e6_numeros_romanos/TerminalExpresion_I.java
+ interpreter.e6_numeros_romanos.TerminalExpresion_I
+prototype/e2_celulares/TarjetaSIM.java
+ prototype.e2_celulares.TarjetaSIM
+builder/e5_restaurante_de_pizzas/Client.java
+ builder.e5_restaurante_de_pizzas.Client
+builder/e5_restaurante_de_pizzas/PizzaHawaiana.java
+ builder.e5_restaurante_de_pizzas.PizzaHawaiana
+prototype/e2_celulares/Client.java
+ prototype.e2_celulares.Client
+builder/e5_restaurante_de_pizzas/Pizzeria.java
+ builder.e5_restaurante_de_pizzas.Pizzeria
+factoryMethod/e3_pasajes_aerolinea/Client.java
+ factoryMethod.e3_pasajes_aerolinea.Client
+builder/e5_restaurante_de_pizzas/PizzaCarnivora.java
+ builder.e5_restaurante_de_pizzas.PizzaCarnivora
+singleton/e1_casa_de_cambios/Client.java
+ singleton.e1_casa_de_cambios.Client
+factoryMethod/e3_pasajes_aerolinea/PasajeInfantes.java
+ factoryMethod.e3_pasajes_aerolinea.PasajeInfantes
+prototype/e2_celulares/IRegistroDispositivo.java
+ prototype.e2_celulares.IRegistroDispositivo
+builder/e5_restaurante_de_pizzas/BuilderPizza.java
+ builder.e5_restaurante_de_pizzas.BuilderPizza
+interpreter/e6_numeros_romanos/InterpreterRomanos.java
+ interpreter.e6_numeros_romanos.InterpreterRomanos
+factoryMethod/e3_pasajes_aerolinea/Pasajero.java
+ factoryMethod.e3_pasajes_aerolinea.Pasajero
+interpreter/e6_numeros_romanos/TerminalExpresion_X.java
+ interpreter.e6_numeros_romanos.TerminalExpresion_X
+factoryMethod/e3_pasajes_aerolinea/IPasaje.java
+ factoryMethod.e3_pasajes_aerolinea.IPasaje
+builder/e5_restaurante_de_pizzas/PizzaClasica.java
+ builder.e5_restaurante_de_pizzas.PizzaClasica
+factoryMethod/e3_pasajes_aerolinea/CreatorPasajeEstandar.java
+ factoryMethod.e3_pasajes_aerolinea.CreatorPasajeEstandar
+abstractFactory/e4_heladeria/HeladoAgua.java
+ abstractFactory.e4_heladeria.HeladoAgua
+abstractFactory/e4_heladeria/IHelado.java
+ abstractFactory.e4_heladeria.IHelado
+interpreter/e7_interprete_user_stories/ContextUserStory.java
+ interpreter.e7_interprete_user_stories.ContextUserStory
+factoryMethod/e3_pasajes_aerolinea/Destino.java
+ factoryMethod.e3_pasajes_aerolinea.Destino
+interpreter/e6_numeros_romanos/ContextRomanos.java
+ interpreter.e6_numeros_romanos.ContextRomanos
+interpreter/e6_numeros_romanos/Client.java
+ interpreter.e6_numeros_romanos.Client
+prototype/e2_celulares/Accesorios.java
+ prototype.e2_celulares.Accesorios
+factoryMethod/e3_pasajes_aerolinea/Avion.java
+ factoryMethod.e3_pasajes_aerolinea.Avion
+interpreter/e6_numeros_romanos/TerminalExpresion_V.java
+ interpreter.e6_numeros_romanos.TerminalExpresion_V
+prototype/e2_celulares/RegistroDispositivo.java
+ prototype.e2_celulares.RegistroDispositivo
 abstractFactory/e4_heladeria/FactoryHelado.java
  abstractFactory.e4_heladeria.FactoryHelado
  abstractFactory.e4_heladeria.FactoryHelado$1
  abstractFactory.e4_heladeria.FactoryHelado$typeHelado
-abstractFactory/e4_heladeria/Client.java
- abstractFactory.e4_heladeria.Client
-builder/e5_restaurante_de_pizzas/BuilderPizza.java
- builder.e5_restaurante_de_pizzas.BuilderPizza
-builder/e5_restaurante_de_pizzas/Pizza.java
- builder.e5_restaurante_de_pizzas.Pizza
-builder/e5_restaurante_de_pizzas/Client.java
- builder.e5_restaurante_de_pizzas.Client
-builder/e5_restaurante_de_pizzas/PizzaClasica.java
- builder.e5_restaurante_de_pizzas.PizzaClasica
-builder/e5_restaurante_de_pizzas/PizzaHawaiana.java
- builder.e5_restaurante_de_pizzas.PizzaHawaiana
-builder/e5_restaurante_de_pizzas/Pizzeria.java
- builder.e5_restaurante_de_pizzas.Pizzeria
-builder/e5_restaurante_de_pizzas/PizzaCarnivora.java
- builder.e5_restaurante_de_pizzas.PizzaCarnivora
-interpreter/e6_numeros_romanos/TerminalExpresion_I.java
- interpreter.e6_numeros_romanos.TerminalExpresion_I
+factoryMethod/e3_pasajes_aerolinea/Origen.java
+ factoryMethod.e3_pasajes_aerolinea.Origen
+abstractFactory/e4_heladeria/Fruta.java
+ abstractFactory.e4_heladeria.Fruta
+singleton/e1_casa_de_cambios/EmpresaCambioMoneda.java
+ singleton.e1_casa_de_cambios.EmpresaCambioMoneda
+prototype/e2_celulares/Persona.java
+ prototype.e2_celulares.Persona
 interpreter/e6_numeros_romanos/AbstractExpresion.java
  interpreter.e6_numeros_romanos.AbstractExpresion
-interpreter/e6_numeros_romanos/ContextRomanos.java
- interpreter.e6_numeros_romanos.ContextRomanos
-interpreter/e6_numeros_romanos/TerminalExpresion_X.java
- interpreter.e6_numeros_romanos.TerminalExpresion_X
-interpreter/e6_numeros_romanos/TerminalExpresion_V.java
- interpreter.e6_numeros_romanos.TerminalExpresion_V
-interpreter/e6_numeros_romanos/InterpreterRomanos.java
- interpreter.e6_numeros_romanos.InterpreterRomanos
-interpreter/e6_numeros_romanos/Client.java
- interpreter.e6_numeros_romanos.Client
+Extras/Switch_Enum.java
+ Extras.Switch_Enum
+ Extras.Switch_Enum$1
+ Extras.Switch_Enum$Day
+abstractFactory/e4_heladeria/HeladoMixto.java
+ abstractFactory.e4_heladeria.HeladoMixto
+interpreter/e7_interprete_user_stories/TerminalExpressionOtros.java
+ interpreter.e7_interprete_user_stories.TerminalExpressionOtros
+interpreter/e7_interprete_user_stories/AbstractExpression.java
+ interpreter.e7_interprete_user_stories.AbstractExpression
+interpreter/e7_interprete_user_stories/TerminalExpressionQuiero.java
+ interpreter.e7_interprete_user_stories.TerminalExpressionQuiero
+interpreter/e7_interprete_user_stories/TerminalExpressionComo.java
+ interpreter.e7_interprete_user_stories.TerminalExpressionComo
+interpreter/e7_interprete_user_stories/InterpreterUserStory.java
+ interpreter.e7_interprete_user_stories.InterpreterUserStory
+interpreter/e7_interprete_user_stories/TerminalExpressionPara.java
+ interpreter.e7_interprete_user_stories.TerminalExpressionPara
+interpreter/e7_interprete_user_stories/Client.java
+ interpreter.e7_interprete_user_stories.Client
