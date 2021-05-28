@@ -2,6 +2,7 @@
 
 ## Ejercicios
 -  [Ejercicio 6: Números Romanos ](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/interpreter/e6_numeros_romanos)
+-  [Ejercicio 7: Interprete User Stories](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/interpreter/e7_interprete_user_stories)
 
 ## Introducción
 El interpreter es un *patrón de diseño* ***de comportamiento*** que, dado un lenguaje, define una representación para su gramática junto con un intérprete del lenguaje.
