@@ -1,5 +1,5 @@
-factoryMethod/e3_pasajes_aerolinea/PasajeEstandar.java
- factoryMethod.e3_pasajes_aerolinea.PasajeEstandar
+builder/e10_restaurante_de_parrillas/Client.java
+ builder.e10_restaurante_de_parrillas.Client
 interpreter/e7_interprete_user_stories/TerminalExpressionQuiero.java
  interpreter.e7_interprete_user_stories.TerminalExpressionQuiero
 abstractFactory/e4_heladeria/Client.java
@@ -38,8 +38,8 @@ builder/e5_restaurante_de_pizzas/Client.java
  builder.e5_restaurante_de_pizzas.Client
 builder/e5_restaurante_de_pizzas/PizzaHawaiana.java
  builder.e5_restaurante_de_pizzas.PizzaHawaiana
-abstractFactory/e4_heladeria/HeladoCrema.java
- abstractFactory.e4_heladeria.HeladoCrema
+builder/e10_restaurante_de_parrillas/BuilderParrilla.java
+ builder.e10_restaurante_de_parrillas.BuilderParrilla
 interpreter/e7_interprete_user_stories/TerminalExpressionPara.java
  interpreter.e7_interprete_user_stories.TerminalExpressionPara
 builder/e5_restaurante_de_pizzas/Pizzeria.java
@@ -60,20 +60,22 @@ interpreter/e7_interprete_user_stories/InterpreterUserStory.java
  interpreter.e7_interprete_user_stories.InterpreterUserStory
 iterator/e8_empresa_de_software/ListaEmpleadosStack.java
  iterator.e8_empresa_de_software.ListaEmpleadosStack
-prototype/e2_celulares/Client.java
- prototype.e2_celulares.Client
+builder/e10_restaurante_de_parrillas/Parrilla.java
+ builder.e10_restaurante_de_parrillas.Parrilla
 factoryMethod/e3_pasajes_aerolinea/Pasajero.java
  factoryMethod.e3_pasajes_aerolinea.Pasajero
 interpreter/e6_numeros_romanos/TerminalExpresion_X.java
  interpreter.e6_numeros_romanos.TerminalExpresion_X
-iterator/e8_empresa_de_software/IteratorEmpleadosArray.java
- iterator.e8_empresa_de_software.IteratorEmpleadosArray
+builder/e10_restaurante_de_parrillas/ParrillaTira.java
+ builder.e10_restaurante_de_parrillas.ParrillaTira
 iterator/e8_empresa_de_software/IteratorEmpleadosStack.java
  iterator.e8_empresa_de_software.IteratorEmpleadosStack
 factoryMethod/e3_pasajes_aerolinea/IPasaje.java
  factoryMethod.e3_pasajes_aerolinea.IPasaje
 iterator/e8_empresa_de_software/Client.java
  iterator.e8_empresa_de_software.Client
+singleton/e11_ventanilla_de_pago/Client.java
+ singleton.e11_ventanilla_de_pago.Client
 builder/e5_restaurante_de_pizzas/PizzaClasica.java
  builder.e5_restaurante_de_pizzas.PizzaClasica
 factoryMethod/e3_pasajes_aerolinea/CreatorPasajeEstandar.java
@@ -84,8 +86,10 @@ abstractFactory/e4_heladeria/IHelado.java
  abstractFactory.e4_heladeria.IHelado
 interpreter/e7_interprete_user_stories/ContextUserStory.java
  interpreter.e7_interprete_user_stories.ContextUserStory
-interpreter/e6_numeros_romanos/InterpreterRomanos.java
- interpreter.e6_numeros_romanos.InterpreterRomanos
+builder/e10_restaurante_de_parrillas/ParrillaBife.java
+ builder.e10_restaurante_de_parrillas.ParrillaBife
+singleton/e11_ventanilla_de_pago/Colegio.java
+ singleton.e11_ventanilla_de_pago.Colegio
 factoryMethod/e3_pasajes_aerolinea/Destino.java
  factoryMethod.e3_pasajes_aerolinea.Destino
 interpreter/e6_numeros_romanos/ContextRomanos.java
@@ -96,6 +100,8 @@ interpreter/e6_numeros_romanos/Client.java
  interpreter.e6_numeros_romanos.Client
 iterator/e8_empresa_de_software/ListaEmpleadosVector.java
  iterator.e8_empresa_de_software.ListaEmpleadosVector
+singleton/e11_ventanilla_de_pago/Estudiante.java
+ singleton.e11_ventanilla_de_pago.Estudiante
 prototype/e2_celulares/Accesorios.java
  prototype.e2_celulares.Accesorios
 iterator/e8_empresa_de_software/Iterator.java
@@ -128,27 +134,31 @@ Extras/Switch_Enum.java
  Extras.Switch_Enum
  Extras.Switch_Enum$1
  Extras.Switch_Enum$Day
-singleton/e1_casa_de_cambios/EmpresaCambioMoneda.java
- singleton.e1_casa_de_cambios.EmpresaCambioMoneda
-interpreter/e7_interprete_user_stories/Client.java
- interpreter.e7_interprete_user_stories.Client
-abstractFactory/e4_heladeria/HeladoMixto.java
- abstractFactory.e4_heladeria.HeladoMixto
-factoryMethod/e3_pasajes_aerolinea/CreatorPasajeSolidario.java
- factoryMethod.e3_pasajes_aerolinea.CreatorPasajeSolidario
-iterator/e8_empresa_de_software/ListaEmpleadosArray.java
- iterator.e8_empresa_de_software.ListaEmpleadosArray
-builder/e10_restaurante_de_parrillas/Restaurant.java
- builder.e10_restaurante_de_parrillas.Restaurant
-builder/e10_restaurante_de_parrillas/Parrilla.java
- builder.e10_restaurante_de_parrillas.Parrilla
-builder/e10_restaurante_de_parrillas/BuilderParrilla.java
- builder.e10_restaurante_de_parrillas.BuilderParrilla
-builder/e10_restaurante_de_parrillas/Client.java
- builder.e10_restaurante_de_parrillas.Client
-builder/e10_restaurante_de_parrillas/ParrillaBife.java
- builder.e10_restaurante_de_parrillas.ParrillaBife
 builder/e10_restaurante_de_parrillas/ParrillaLomito.java
  builder.e10_restaurante_de_parrillas.ParrillaLomito
-builder/e10_restaurante_de_parrillas/ParrillaTira.java
- builder.e10_restaurante_de_parrillas.ParrillaTira
+interpreter/e7_interprete_user_stories/Client.java
+ interpreter.e7_interprete_user_stories.Client
+singleton/e11_ventanilla_de_pago/Ventanilla.java
+ singleton.e11_ventanilla_de_pago.Ventanilla
+abstractFactory/e4_heladeria/HeladoMixto.java
+ abstractFactory.e4_heladeria.HeladoMixto
+builder/e10_restaurante_de_parrillas/Restaurant.java
+ builder.e10_restaurante_de_parrillas.Restaurant
+iterator/e8_empresa_de_software/ListaEmpleadosArray.java
+ iterator.e8_empresa_de_software.ListaEmpleadosArray
+prototype/e2_celulares/Client.java
+ prototype.e2_celulares.Client
+factoryMethod/e3_pasajes_aerolinea/CreatorPasajeSolidario.java
+ factoryMethod.e3_pasajes_aerolinea.CreatorPasajeSolidario
+iterator/e8_empresa_de_software/IteratorEmpleadosArray.java
+ iterator.e8_empresa_de_software.IteratorEmpleadosArray
+singleton/e1_casa_de_cambios/EmpresaCambioMoneda.java
+ singleton.e1_casa_de_cambios.EmpresaCambioMoneda
+abstractFactory/e4_heladeria/HeladoCrema.java
+ abstractFactory.e4_heladeria.HeladoCrema
+interpreter/e6_numeros_romanos/InterpreterRomanos.java
+ interpreter.e6_numeros_romanos.InterpreterRomanos
+singleton/e11_ventanilla_de_pago/Cajero.java
+ singleton.e11_ventanilla_de_pago.Cajero
+factoryMethod/e3_pasajes_aerolinea/PasajeEstandar.java
+ factoryMethod.e3_pasajes_aerolinea.PasajeEstandar
