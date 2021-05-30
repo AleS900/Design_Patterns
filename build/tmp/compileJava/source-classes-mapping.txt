@@ -162,3 +162,11 @@ singleton/e11_ventanilla_de_pago/Cajero.java
  singleton.e11_ventanilla_de_pago.Cajero
 factoryMethod/e3_pasajes_aerolinea/PasajeEstandar.java
  factoryMethod.e3_pasajes_aerolinea.PasajeEstandar
+prototype/e12_contrato_de_docentes/ContratoDocente.java
+ prototype.e12_contrato_de_docentes.ContratoDocente
+prototype/e12_contrato_de_docentes/IContratoDocente.java
+ prototype.e12_contrato_de_docentes.IContratoDocente
+prototype/e12_contrato_de_docentes/Docente.java
+ prototype.e12_contrato_de_docentes.Docente
+prototype/e12_contrato_de_docentes/Client.java
+ prototype.e12_contrato_de_docentes.Client
