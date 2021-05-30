@@ -8,7 +8,7 @@ public class ParrillaTira  extends BuilderParrilla {
 
     @Override
     public void buildMeatType(){
-        parrilla.setMeatType("Tira");
+        parrilla.setMeatType("Tira de Carne");
     }
 
     @Override
