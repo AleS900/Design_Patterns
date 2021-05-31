@@ -49,11 +49,13 @@ Los patrones de comportamiento tratan con algoritmos y la asignación de respons
 -  [Ejercicio 12: Contrato de Docentes](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/prototype/e12_contrato_de_docentes)
 -  [Ejercicio 13: Kit Útiles Escolares](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/factoryMethod/e13_kit_utiles_escolares)
 -  [Ejercicio 14: Inscripción A Cursos](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/abstractFactory/e14_inscripcion_a_cursos)
+-  [Ejercicio 15: Restaurante de Parillas](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/builder/e10_restaurante_de_parrillas)
+
 ### Patrones de Diseño De Comportamiento
 -  [Ejercicio 6: Números Romanos](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/interpreter/e6_numeros_romanos)
 -  [Ejercicio 7: Interprete User Stories](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/interpreter/e7_interprete_user_stories)
 -  [Ejercicio 8: Empleados Empresa de Software](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/iterator/e8_empresa_de_software)
--  [Ejercicio 15: Restaurante de Parillas](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/builder/e10_restaurante_de_parrillas)
+
 ### Extras
 -  [Ejercicio EXTRA: Switch Case Utilizando Enum](https://github.com/AleS900/Design_Patterns/blob/main/src/main/java/Extras/Switch_Enum.java)
 
