@@ -15,17 +15,15 @@ contrato tiene varios atributos en común como ser:
 
 ### Se desea registrar a 15 docentes donde tienen
 varios valores en común:<\br>
-
-- *Sueldo : 5000 Bs
+```
+- Sueldo : 5000 Bs
 - Carga Horaría : 80 horas
 - Curso Educación Superior : True
 - AccesoPlataforma : True
 - Marcado Biometrico : False
 - Marcado Hora de Entrada : 08:00
-- Marcado hora de Salida : 18:00*
-
-</br>
- </br>
+- Marcado hora de Salida : 18:00
+```
  <p align="center">
     <img src="https://github.com/AleS900/prueba/blob/master/assets/pngwing.com.png" />
  </p>
