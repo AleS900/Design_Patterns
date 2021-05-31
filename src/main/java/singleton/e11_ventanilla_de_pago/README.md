@@ -1,4 +1,4 @@
-# Ejercicio 11 - 
+# Ejercicio 11 - Ventanilla De Pago
 
 En un colegio de La ciudad de la Paz se desea *implementar*
 un **sistema para el control de notas**, se desea tener una
@@ -18,3 +18,8 @@ E4 --- Ventanilla 200
 E5 --- Ventanilla 200
 ```
 ### 5 estudiantes deben pagar en ventanilla.
+
+ </br>
+ <p align="center">
+    <img src="https://github.com/AleS900/prueba/blob/master/assets/cashier-icon.png" />
+ </p>
