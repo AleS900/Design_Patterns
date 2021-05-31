@@ -2,7 +2,7 @@
 
 Se tiene un restaurante que vende platos de Parrillas donde cada plato tiene
 *Tipo De Carne, Sabor de Refresco, Guarniciones.*
-En este lugar se tienen **3** especialidades :
+En este lugar se tienen **3** especialidades:
 
 - **Bife**
   - Tipo de Carne: Bife
