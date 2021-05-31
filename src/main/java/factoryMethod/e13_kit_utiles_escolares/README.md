@@ -6,13 +6,13 @@ Se debe *crear* kit de utilies escolares donde existen
 - **Kit_Escolar** cuenta con:
   - Mochila (Número de Bolsillos, Tamaño)
   - Deportivo (Talla, Color, Número de Prendas)
-  - Cuadernos (Tipo, Número de Hojas)
-</br>
+  - Cuadernos (Tipo, Número de Hojas)</br>
+
 - **Kit Colegial** cuenta con:
   - Mochila (Número de Bolsillos, Tamaño)
   - Libros(Tipo, Autor)
-  - Computadora(Marca, Sistema Operativo).
-
+  - Computadora(Marca, Sistema Operativo)
+</br>
 ### Crear 2 kits de cada tipo.
  </br>
  <p align="center">
