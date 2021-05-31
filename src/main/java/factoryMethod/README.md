@@ -2,6 +2,7 @@
 
 ## Ejercicios
 -  [Ejercicio 3: Pasajes Aerolínea ](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/factoryMethod/e3_pasajes_aerolinea)
+-  [Ejercicio 13: Kit Útiles Escolares](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/factoryMethod/e13_kit_utiles_escolares)
 
 ## Introducción
 El *patrónde diseño* de **Método de Fábrica** o **Factory Method** es un *patrón de creación* que utiliza métodos de fábrica para tratar el problema de crear objetos sin tener que especificar la clase exacta del objeto que se creará. Esto se hace creando objetos llamando a un método de fábrica, ya sea especificado en una interfaz e implementado por clases secundarias, o implementado en una clase base y opcionalmente anulado por clases derivadas, en lugar de llamar a un constructor .<br/>
