@@ -9,7 +9,7 @@ a los cursos existentes utilizando la opción de
 - Matemáticas
 - Lenguaje
 - Historia
-- Inglés</br>
+- Inglés
 ```
 ### 5 estudiantes deben inscribirse a alguna materia.
  </br>
