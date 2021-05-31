@@ -19,7 +19,7 @@ En este lugar se tienen **3** especialidades:
   - Sabor de Refresco: Pepsi
   - Guarniciones: Arroz
 
-# Elaborar los platos en la siguiente situación, entra 1 cliente y pide 1 de cada especialidad.
+### Elaborar los platos en la siguiente situación, entra 1 cliente y pide 1 de cada especialidad.
 </br>
  </br>
  <p align="center">
