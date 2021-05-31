@@ -12,7 +12,7 @@ Se debe *crear* kit de utilies escolares donde existen
   - Mochila (Número de Bolsillos, Tamaño)
   - Libros(Tipo, Autor)
   - Computadora(Marca, Sistema Operativo).
-</br>
+
 ### Crear 2 kits de cada tipo.
  </br>
  <p align="center">
