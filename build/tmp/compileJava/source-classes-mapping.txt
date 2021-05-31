@@ -170,3 +170,27 @@ prototype/e12_contrato_de_docentes/Docente.java
  prototype.e12_contrato_de_docentes.Docente
 prototype/e12_contrato_de_docentes/Client.java
  prototype.e12_contrato_de_docentes.Client
+factoryMethod/e13_kit_utiles_escolares/CreatorKits.java
+ factoryMethod.e13_kit_utiles_escolares.CreatorKits
+factoryMethod/e13_kit_utiles_escolares/Computadora.java
+ factoryMethod.e13_kit_utiles_escolares.Computadora
+factoryMethod/e13_kit_utiles_escolares/IKit.java
+ factoryMethod.e13_kit_utiles_escolares.IKit
+factoryMethod/e13_kit_utiles_escolares/Mochila.java
+ factoryMethod.e13_kit_utiles_escolares.Mochila
+factoryMethod/e13_kit_utiles_escolares/Cuaderno.java
+ factoryMethod.e13_kit_utiles_escolares.Cuaderno
+factoryMethod/e13_kit_utiles_escolares/CreatorKitColegial.java
+ factoryMethod.e13_kit_utiles_escolares.CreatorKitColegial
+factoryMethod/e13_kit_utiles_escolares/KitColegial.java
+ factoryMethod.e13_kit_utiles_escolares.KitColegial
+factoryMethod/e13_kit_utiles_escolares/Deportivo.java
+ factoryMethod.e13_kit_utiles_escolares.Deportivo
+factoryMethod/e13_kit_utiles_escolares/Libro.java
+ factoryMethod.e13_kit_utiles_escolares.Libro
+factoryMethod/e13_kit_utiles_escolares/CreatorKitEscolar.java
+ factoryMethod.e13_kit_utiles_escolares.CreatorKitEscolar
+factoryMethod/e13_kit_utiles_escolares/KitEscolar.java
+ factoryMethod.e13_kit_utiles_escolares.KitEscolar
+factoryMethod/e13_kit_utiles_escolares/Client.java
+ factoryMethod.e13_kit_utiles_escolares.Client
