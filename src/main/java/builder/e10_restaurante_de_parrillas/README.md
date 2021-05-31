@@ -1,28 +1,27 @@
-# Ejercicio 5 - Restaurante de Pizzas
+# Ejercicio 10 - Restaurante de Parrillas
 
-Se tiene un restaurante que se encarga de la preparacion de pizzas.
+Se tiene un restaurante que vende platos de Parrillas donde cada plato tiene
+*Tipo De Carne, Sabor de Refresco, Guarniciones.*
+En este lugar se tienen **3** especialidades :
 
-Dichas pizzas tienes atributos comunes como ser Ingredientes, Tipo de Masa, Tipo de Queso.
+- **Bife**
+  - Tipo de Carne: Bife
+  - Sabor de Refresco: CocaCola
+  - Guarniciones: Papas Fritas
 
-Se tiene además distintos tipos de pizzas.
+- **Lomito**
+  - Tipo de Carne: Lomo
+  - Sabor de Refresco: Pepsi
+  - Guarniciones: Arroz
 
-- **Pizza Carnivora**
-  - Ingredientes = Carne, Salza de Tomate, Otro.
-  - Tipo de Masa = Masa Especial
-  - Tipo de Queso = Queso Mozarella
+- **Tira**
+  - Tipo de Carne: Tira de Carne
+  - Sabor de Refresco: Pepsi
+  - Guarniciones: Arroz
 
-- **Pizza Hawaiana**
-  - Ingredientes = Piña, Salza de Tomate, Otro.
-  - Tipo de Masa = Masa Normal
-  - Tipo de Queso = Queso Mozarella Tipo 2
-
-- **Pizza Clásica**
-  - Ingredientes = Salsa Tomate, Otro.
-  - Tipo de Masa = Masa Especial
-  - Tipo de Queso = Doble Queso Mozarella Tipo 2
-
-### Elaborar 3 pizzas, una carnivora, una hawaiana y una clásica.</br>
+# Elaborar los platos en la siguiente situación, entra 1 cliente y pide 1 de cada especialidad.
+</br>
  </br>
  <p align="center">
-    <img src="https://github.com/AleS900/prueba/blob/master/assets/36dfa070357ed68740e3391d8f34e55d.png" />
+    <img src="https://github.com/AleS900/prueba/blob/master/assets/vector-barbecue-icon-png_299616.jpg" />
  </p>
