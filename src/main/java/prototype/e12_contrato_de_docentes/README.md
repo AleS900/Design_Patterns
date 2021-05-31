@@ -13,8 +13,7 @@ contrato tiene varios atributos en común como ser:
 - Nombre
 - Apellido
 
-### Se desea registrar a 15 docentes donde tienen
-varios valores en común:
+### Se desea registrar a 15 docentes donde tienenvarios valores en común:
 ```
 - Sueldo : 5000 Bs
 - Carga Horaría : 80 horas
