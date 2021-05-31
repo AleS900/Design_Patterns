@@ -1,4 +1,4 @@
-# Ejercicio 13
+# Ejercicio 13 - Kit Utiles Escolares
 
 Se debe *crear* kit de utilies escolares donde existen
 **2** tipos de kit, *Kit Escolar* y *Kit Colegial*, donde:
