@@ -15,6 +15,7 @@ Se debe *crear* kit de utilies escolares donde existen
 
 ### Crear 2 kits de cada tipo.
  </br>
+ 
  <p align="center">
     <img src="https://github.com/AleS900/prueba/blob/master/assets/pngwing.com%20(1).png" />
  </p>
