@@ -20,12 +20,11 @@ Además:
 
 ### NOTAS:
 
-* ***Asegurarse que la persona que envía el mensaje no reciba
-  su propio mensaje.***
+* *Asegurarse que la persona que envía el mensaje no reciba
+  su propio mensaje.*
 
-* ***Se debe utilizar la estructura Map.***
+* *Se debe utilizar la estructura Map.**
 
-</br>
 
 ### Agregar minimamente 3 DEVs, 3 QAs y 3 SMs al chat.
 
