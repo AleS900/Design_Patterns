@@ -40,21 +40,21 @@ Los patrones de comportamiento tratan con algoritmos y la asignación de respons
 
 ## Ejercicios
 ### Patrones de Diseño Creacionales
--  [Ejercicio 1: Casa De Cambio](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/singleton/e1_casa_de_cambios)
--  [Ejercicio 2: Registro Dispositivos Móviles ](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/prototype/e2_celulares)
--  [Ejercicio 3: Pasajes de Avión](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/factoryMethod/e3_pasajes_aerolinea)
--  [Ejercicio 4: Heladería](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/abstractFactory/e4_heladeria)
--  [Ejercicio 5: Restaurante de Pizzas](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/builder/e5_restaurante_de_pizzas)
--  [Ejercicio 11: Ventanilla de Pago](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/singleton/e11_ventanilla_de_pago)
--  [Ejercicio 12: Contrato de Docentes](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/prototype/e12_contrato_de_docentes)
--  [Ejercicio 13: Kit Útiles Escolares](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/factoryMethod/e13_kit_utiles_escolares)
--  [Ejercicio 14: Inscripción A Cursos](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/abstractFactory/e14_inscripcion_a_cursos)
--  [Ejercicio 15: Restaurante de Parillas](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/builder/e10_restaurante_de_parrillas)
+-  [Ejercicio 1: Casa De Cambio (Primer Parcial)](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/singleton/e1_casa_de_cambios)
+-  [Ejercicio 2: Registro Dispositivos Móviles (Primer Parcial)](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/prototype/e2_celulares)
+-  [Ejercicio 3: Pasajes de Avión (Primer Parcial)](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/factoryMethod/e3_pasajes_aerolinea)
+-  [Ejercicio 4: Heladería (Primer Parcial)](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/abstractFactory/e4_heladeria)
+-  [Ejercicio 5: Restaurante de Pizzas (Primer Parcial)](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/builder/e5_restaurante_de_pizzas)
+-  [Ejercicio 11: Ventanilla de Pago (Primer Parcial)](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/singleton/e11_ventanilla_de_pago)
+-  [Ejercicio 12: Contrato de Docentes (Primer Parcial)](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/prototype/e12_contrato_de_docentes)
+-  [Ejercicio 13: Kit Útiles Escolares (Primer Parcial)](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/factoryMethod/e13_kit_utiles_escolares)
+-  [Ejercicio 14: Inscripción A Cursos (Primer Parcial)](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/abstractFactory/e14_inscripcion_a_cursos)
+-  [Ejercicio 15: Restaurante de Parillas (Primer Parcial)](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/builder/e10_restaurante_de_parrillas)
 
 ### Patrones de Diseño De Comportamiento
--  [Ejercicio 6: Números Romanos](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/interpreter/e6_numeros_romanos)
--  [Ejercicio 7: Interprete User Stories](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/interpreter/e7_interprete_user_stories)
--  [Ejercicio 8: Empleados Empresa de Software](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/iterator/e8_empresa_de_software)
+-  [Ejercicio 6: Números Romanos (Primer Parcial)](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/interpreter/e6_numeros_romanos)
+-  [Ejercicio 7: Interprete User Stories (Primer Parcial)](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/interpreter/e7_interprete_user_stories)
+-  [Ejercicio 8: Empleados Empresa de Software (Primer Parcial)](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/iterator/e8_empresa_de_software)
 
 ### Extras
 -  [Ejercicio EXTRA: Switch Case Utilizando Enum](https://github.com/AleS900/Design_Patterns/blob/main/src/main/java/Extras/Switch_Enum.java)
