@@ -10,13 +10,13 @@ existen:
 
 Además:
 
-- Cuando un QA envía un mensaje, lo envia a todos los
-  QA registrados.
-- Cuando un SM envía un mensaje, lo envia a todos los
+- Cuando un QA envía un mensaje, lo envía a todos los
+  QAs registrados.
+- Cuando un SM envía un mensaje, lo envía a todos los
   que estan registrados; esto quiere decir que se
   envía el mensaje a QA / DEV / SM.
-- Cuando un DEV envía un mensaje, lo envia a todos
-  los DEV.
+- Cuando un DEV envía un mensaje, lo envía a todos
+  los DEVs.
 
 ### NOTAS:
 
