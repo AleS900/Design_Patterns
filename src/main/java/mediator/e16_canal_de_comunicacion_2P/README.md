@@ -24,7 +24,9 @@ Además:
   su propio mensaje.***
 
 * ***Se debe utilizar la estructura Map.***
+
 </br>
+
 ### Agregar minimamente 3 DEVs, 3 QAs y 3 SMs al chat.
 
  </br>
