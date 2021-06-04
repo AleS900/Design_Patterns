@@ -9,7 +9,6 @@ El **interpreter** es un *patrón de diseño* ***de comportamiento*** que, dado 
 
 Se usa para definir un lenguaje para representar expresiones regulares que representen cadenas a buscar dentro de otras cadenas. Además, en general, para definir un lenguaje que permita representar las distintas instancias de una familia de problemas.
 </br>
-</br>
  <p align="center">
     <img src="https://github.com/AleS900/prueba/blob/master/assets/1_aktl9RllPoIN9uymMnKo1Q.png" />
  </p>
