@@ -38,6 +38,7 @@ Los patrones de comportamiento tratan con algoritmos y la asignación de respons
 -  [Interpreter](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/interpreter)
 -  [Iterator](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/iterator)
 -  [Mediator](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/mediator)
+-  [Memento](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/memento)
 
 ## Ejercicios
 ### Patrones de Diseño Creacionales
@@ -57,6 +58,7 @@ Los patrones de comportamiento tratan con algoritmos y la asignación de respons
 -  [Ejercicio 7: Interprete User Stories (Primer Parcial)](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/interpreter/e7_interprete_user_stories)
 -  [Ejercicio 8: Empleados Empresa de Software (Primer Parcial)](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/iterator/e8_empresa_de_software)
 -  [Ejercicio 16: Canal de Comunicación SKYPE(Segundo Parcial)](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/mediator/e16_canal_de_comunicacion_2P)
+-  [Ejercicio 17: Back Up Base de Datos](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/memento/e17_back_up_base_de_datos_2P)
 
 ### Extras
 -  [Ejercicio EXTRA: Switch Case Utilizando Enum](https://github.com/AleS900/Design_Patterns/blob/main/src/main/java/Extras/Switch_Enum.java)
