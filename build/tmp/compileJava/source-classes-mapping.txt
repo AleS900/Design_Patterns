@@ -212,3 +212,29 @@ abstractFactory/e14_inscripcion_a_cursos/CursoIngles.java
  abstractFactory.e14_inscripcion_a_cursos.CursoIngles
 abstractFactory/e14_inscripcion_a_cursos/Client.java
  abstractFactory.e14_inscripcion_a_cursos.Client
+mediator/e16_canal_de_comunicacion_2P/Colleague.java
+ mediator.e16_canal_de_comunicacion_2P.Colleague
+mediator/e16_canal_de_comunicacion_2P/ICanalDeComunicacion.java
+ mediator.e16_canal_de_comunicacion_2P.ICanalDeComunicacion
+mediator/e16_canal_de_comunicacion_2P/DEV.java
+ mediator.e16_canal_de_comunicacion_2P.DEV
+mediator/e16_canal_de_comunicacion_2P/SM.java
+ mediator.e16_canal_de_comunicacion_2P.SM
+mediator/e16_canal_de_comunicacion_2P/QA.java
+ mediator.e16_canal_de_comunicacion_2P.QA
+mediator/e16_canal_de_comunicacion_2P/Skype.java
+ mediator.e16_canal_de_comunicacion_2P.Skype
+mediator/e16_canal_de_comunicacion_2P/Client.java
+ mediator.e16_canal_de_comunicacion_2P.Client
+memento/e17_back_up_base_de_datos_2P/BKOriginator.java
+ memento.e17_back_up_base_de_datos_2P.BKOriginator
+memento/e17_back_up_base_de_datos_2P/DBCareTaker.java
+ memento.e17_back_up_base_de_datos_2P.DBCareTaker
+memento/e17_back_up_base_de_datos_2P/ConcreteBackUp.java
+ memento.e17_back_up_base_de_datos_2P.ConcreteBackUp
+memento/e17_back_up_base_de_datos_2P/Memento.java
+ memento.e17_back_up_base_de_datos_2P.Memento
+memento/e17_back_up_base_de_datos_2P/Persona.java
+ memento.e17_back_up_base_de_datos_2P.Persona
+memento/e17_back_up_base_de_datos_2P/Client.java
+ memento.e17_back_up_base_de_datos_2P.Client

@@ -1,0 +1,10 @@
+Ejercicio 17
+
+Se tiene una base de datos donde se van
+agregando Personas (Nombre, CI, Edad), a
+medida que va creciendo la base de datos
+se van sacando BackUps que tiene como
+nombre un Alias (i.e BackupMarzo, BackupMayo),
+cuando ya se tiene 5 Backups se desea
+restaurar el segundo backup y mostrar
+las personas que tenía en dicha versión.
