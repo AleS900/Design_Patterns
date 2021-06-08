@@ -22,7 +22,7 @@ public class ALG2BubbleSort implements IHandler {
             System.out.println("Se tienen un número de personas no");
             System.out.println("mayor a 20, es decir se utilizará");
             System.out.println("el primer algoritmo de ordenación:\n");
-            System.out.println("       SELECTION SORT");
+            System.out.println("        BUBBLE SORT");
             System.out.println("   |  Edad  |   Nombre   |");
             bubbleSort(person_arr);
             System.out.println("***********************\n");
