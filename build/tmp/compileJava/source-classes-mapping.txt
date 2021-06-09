@@ -14,6 +14,8 @@ factoryMethod/e13_kit_utiles_escolares/CreatorKitEscolar.java
  factoryMethod.e13_kit_utiles_escolares.CreatorKitEscolar
 factoryMethod/e3_pasajes_aerolinea/CreatorPasajes.java
  factoryMethod.e3_pasajes_aerolinea.CreatorPasajes
+command/e21_comandos_videojuegos_2P/IComandosEspecificos.java
+ command.e21_comandos_videojuegos_2P.IComandosEspecificos
 singleton/e1_casa_de_cambios/CasaDeCambio.java
  singleton.e1_casa_de_cambios.CasaDeCambio
 abstractFactory/e4_heladeria/Base.java
@@ -34,6 +36,8 @@ builder/e10_restaurante_de_parrillas/BuilderParrilla.java
  builder.e10_restaurante_de_parrillas.BuilderParrilla
 builder/e5_restaurante_de_pizzas/Pizzeria.java
  builder.e5_restaurante_de_pizzas.Pizzeria
+iterator/e8_empresa_de_software/IteratorEmpleadosArray.java
+ iterator.e8_empresa_de_software.IteratorEmpleadosArray
 factoryMethod/e3_pasajes_aerolinea/Client.java
  factoryMethod.e3_pasajes_aerolinea.Client
 memento/e17_back_up_base_de_datos_2P/ConcreteBackUp.java
@@ -92,6 +96,8 @@ abstractFactory/e4_heladeria/FactoryHelado.java
  abstractFactory.e4_heladeria.FactoryHelado
  abstractFactory.e4_heladeria.FactoryHelado$1
  abstractFactory.e4_heladeria.FactoryHelado$typeHelado
+factoryMethod/e13_kit_utiles_escolares/CreatorKits.java
+ factoryMethod.e13_kit_utiles_escolares.CreatorKits
 chainOfResponsability/e18_servicio_de_software_2P/IHandler.java
  chainOfResponsability.e18_servicio_de_software_2P.IHandler
 abstractFactory/e14_inscripcion_a_cursos/CursoHistoria.java
@@ -110,6 +116,8 @@ mediator/e16_canal_de_comunicacion_2P/SM.java
  mediator.e16_canal_de_comunicacion_2P.SM
 chainOfResponsability/e20_algoritmos_de_ordenamiento/ArregloPersonas.java
  chainOfResponsability.e20_algoritmos_de_ordenamiento.ArregloPersonas
+command/e21_comandos_videojuegos_2P/Client.java
+ command.e21_comandos_videojuegos_2P.Client
 builder/e10_restaurante_de_parrillas/Restaurant.java
  builder.e10_restaurante_de_parrillas.Restaurant
 chainOfResponsability/e18_servicio_de_software_2P/Persona.java
@@ -140,14 +148,18 @@ builder/e10_restaurante_de_parrillas/Client.java
  builder.e10_restaurante_de_parrillas.Client
 interpreter/e7_interprete_user_stories/TerminalExpressionQuiero.java
  interpreter.e7_interprete_user_stories.TerminalExpressionQuiero
-mediator/e16_canal_de_comunicacion_2P/DEV.java
- mediator.e16_canal_de_comunicacion_2P.DEV
+factoryMethod/e13_kit_utiles_escolares/Libro.java
+ factoryMethod.e13_kit_utiles_escolares.Libro
+chainOfResponsability/e20_algoritmos_de_ordenamiento/ALG3InsertionSort.java
+ chainOfResponsability.e20_algoritmos_de_ordenamiento.ALG3InsertionSort
 factoryMethod/e13_kit_utiles_escolares/Mochila.java
  factoryMethod.e13_kit_utiles_escolares.Mochila
 abstractFactory/e4_heladeria/Client.java
  abstractFactory.e4_heladeria.Client
 singleton/e1_casa_de_cambios/LibreCambista.java
  singleton.e1_casa_de_cambios.LibreCambista
+command/e21_comandos_videojuegos_2P/Invoker.java
+ command.e21_comandos_videojuegos_2P.Invoker
 abstractFactory/e14_inscripcion_a_cursos/ICurso.java
  abstractFactory.e14_inscripcion_a_cursos.ICurso
 interpreter/e6_numeros_romanos/TerminalExpresion_I.java
@@ -180,6 +192,8 @@ interpreter/e7_interprete_user_stories/InterpreterUserStory.java
  interpreter.e7_interprete_user_stories.InterpreterUserStory
 builder/e10_restaurante_de_parrillas/Parrilla.java
  builder.e10_restaurante_de_parrillas.Parrilla
+command/e21_comandos_videojuegos_2P/GameReceiver.java
+ command.e21_comandos_videojuegos_2P.GameReceiver
 chainOfResponsability/e18_servicio_de_software_2P/Support.java
  chainOfResponsability.e18_servicio_de_software_2P.Support
 factoryMethod/e13_kit_utiles_escolares/KitColegial.java
@@ -208,6 +222,8 @@ factoryMethod/e3_pasajes_aerolinea/Destino.java
  factoryMethod.e3_pasajes_aerolinea.Destino
 memento/e17_back_up_base_de_datos_2P/Memento.java
  memento.e17_back_up_base_de_datos_2P.Memento
+mediator/e16_canal_de_comunicacion_2P/Client.java
+ mediator.e16_canal_de_comunicacion_2P.Client
 interpreter/e6_numeros_romanos/ContextRomanos.java
  interpreter.e6_numeros_romanos.ContextRomanos
 chainOfResponsability/e19_software_de_carnetizacion_2P/Persona.java
@@ -222,12 +238,18 @@ memento/e17_back_up_base_de_datos_2P/Client.java
  memento.e17_back_up_base_de_datos_2P.Client
 mediator/e16_canal_de_comunicacion_2P/Skype.java
  mediator.e16_canal_de_comunicacion_2P.Skype
+command/e21_comandos_videojuegos_2P/CambiarAModoDefensa.java
+ command.e21_comandos_videojuegos_2P.CambiarAModoDefensa
 iterator/e8_empresa_de_software/ListaEmpleadosVector.java
  iterator.e8_empresa_de_software.ListaEmpleadosVector
 singleton/e11_ventanilla_de_pago/Estudiante.java
  singleton.e11_ventanilla_de_pago.Estudiante
 prototype/e2_celulares/Accesorios.java
  prototype.e2_celulares.Accesorios
+command/e21_comandos_videojuegos_2P/Disparar.java
+ command.e21_comandos_videojuegos_2P.Disparar
+command/e21_comandos_videojuegos_2P/Atacar.java
+ command.e21_comandos_videojuegos_2P.Atacar
 factoryMethod/e3_pasajes_aerolinea/Avion.java
  factoryMethod.e3_pasajes_aerolinea.Avion
 iterator/e8_empresa_de_software/IteratorEmpleadosVector.java
@@ -236,14 +258,16 @@ interpreter/e6_numeros_romanos/TerminalExpresion_V.java
  interpreter.e6_numeros_romanos.TerminalExpresion_V
 chainOfResponsability/e18_servicio_de_software_2P/ServicioDeSoftware.java
  chainOfResponsability.e18_servicio_de_software_2P.ServicioDeSoftware
-factoryMethod/e13_kit_utiles_escolares/CreatorKits.java
- factoryMethod.e13_kit_utiles_escolares.CreatorKits
+chainOfResponsability/e20_algoritmos_de_ordenamiento/Client.java
+ chainOfResponsability.e20_algoritmos_de_ordenamiento.Client
 prototype/e12_contrato_de_docentes/Docente.java
  prototype.e12_contrato_de_docentes.Docente
-mediator/e16_canal_de_comunicacion_2P/Client.java
- mediator.e16_canal_de_comunicacion_2P.Client
+chainOfResponsability/e20_algoritmos_de_ordenamiento/IdentificadorAlgoritmo.java
+ chainOfResponsability.e20_algoritmos_de_ordenamiento.IdentificadorAlgoritmo
 memento/e17_back_up_base_de_datos_2P/BKOriginator.java
  memento.e17_back_up_base_de_datos_2P.BKOriginator
+mediator/e16_canal_de_comunicacion_2P/DEV.java
+ mediator.e16_canal_de_comunicacion_2P.DEV
 factoryMethod/e13_kit_utiles_escolares/Cuaderno.java
  factoryMethod.e13_kit_utiles_escolares.Cuaderno
 factoryMethod/e3_pasajes_aerolinea/Origen.java
@@ -274,31 +298,21 @@ factoryMethod/e13_kit_utiles_escolares/CreatorKitColegial.java
  factoryMethod.e13_kit_utiles_escolares.CreatorKitColegial
 iterator/e8_empresa_de_software/ListaEmpleadosArray.java
  iterator.e8_empresa_de_software.ListaEmpleadosArray
-prototype/e2_celulares/Client.java
- prototype.e2_celulares.Client
 factoryMethod/e3_pasajes_aerolinea/CreatorPasajeSolidario.java
  factoryMethod.e3_pasajes_aerolinea.CreatorPasajeSolidario
-factoryMethod/e13_kit_utiles_escolares/Libro.java
- factoryMethod.e13_kit_utiles_escolares.Libro
-iterator/e8_empresa_de_software/IteratorEmpleadosArray.java
- iterator.e8_empresa_de_software.IteratorEmpleadosArray
-chainOfResponsability/e20_algoritmos_de_ordenamiento/Client.java
- chainOfResponsability.e20_algoritmos_de_ordenamiento.Client
-chainOfResponsability/e20_algoritmos_de_ordenamiento/IdentificadorAlgoritmo.java
- chainOfResponsability.e20_algoritmos_de_ordenamiento.IdentificadorAlgoritmo
-chainOfResponsability/e20_algoritmos_de_ordenamiento/ALG3InsertionSort.java
- chainOfResponsability.e20_algoritmos_de_ordenamiento.ALG3InsertionSort
-command/e21_comandos_videojuegos_2P/IComandosEspecificos.java
- command.e21_comandos_videojuegos_2P.IComandosEspecificos
-command/e21_comandos_videojuegos_2P/Invoker.java
- command.e21_comandos_videojuegos_2P.Invoker
-command/e21_comandos_videojuegos_2P/Disparar.java
- command.e21_comandos_videojuegos_2P.Disparar
-command/e21_comandos_videojuegos_2P/Atacar.java
- command.e21_comandos_videojuegos_2P.Atacar
-command/e21_comandos_videojuegos_2P/Client.java
- command.e21_comandos_videojuegos_2P.Client
-command/e21_comandos_videojuegos_2P/GameReceiver.java
- command.e21_comandos_videojuegos_2P.GameReceiver
-command/e21_comandos_videojuegos_2P/CambiarAModoDefensa.java
- command.e21_comandos_videojuegos_2P.CambiarAModoDefensa
+prototype/e2_celulares/Client.java
+ prototype.e2_celulares.Client
+observer/e22_empresa_telefonica_2P/NotificacionEmpresa.java
+ observer.e22_empresa_telefonica_2P.NotificacionEmpresa
+observer/e22_empresa_telefonica_2P/EmpresaTelefonica.java
+ observer.e22_empresa_telefonica_2P.EmpresaTelefonica
+observer/e22_empresa_telefonica_2P/ISubjectEmpresaTelefonica.java
+ observer.e22_empresa_telefonica_2P.ISubjectEmpresaTelefonica
+observer/e22_empresa_telefonica_2P/ICliente.java
+ observer.e22_empresa_telefonica_2P.ICliente
+observer/e22_empresa_telefonica_2P/Persona.java
+ observer.e22_empresa_telefonica_2P.Persona
+observer/e22_empresa_telefonica_2P/ClientePersona.java
+ observer.e22_empresa_telefonica_2P.ClientePersona
+observer/e22_empresa_telefonica_2P/Client.java
+ observer.e22_empresa_telefonica_2P.Client
