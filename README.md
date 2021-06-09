@@ -57,8 +57,12 @@ Los patrones de comportamiento tratan con algoritmos y la asignación de respons
 -  [Ejercicio 6: Números Romanos (Primer Parcial)](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/interpreter/e6_numeros_romanos)
 -  [Ejercicio 7: Interprete User Stories (Primer Parcial)](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/interpreter/e7_interprete_user_stories)
 -  [Ejercicio 8: Empleados Empresa de Software (Primer Parcial)](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/iterator/e8_empresa_de_software)
--  [Ejercicio 16: Canal de Comunicación SKYPE(Segundo Parcial)](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/mediator/e16_canal_de_comunicacion_2P)
--  [Ejercicio 17: Back Up Base de Datos(Segundo Parcial)](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/memento/e17_back_up_base_de_datos_2P)
+-  [Ejercicio 16: Canal de Comunicación SKYPE (Segundo Parcial)](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/mediator/e16_canal_de_comunicacion_2P)
+-  [Ejercicio 17: Back Up Base de Datos (Segundo Parcial)](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/memento/e17_back_up_base_de_datos_2P)
+-  [Ejercicio 18: Servicio de Software (Segundo Parcial)](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/chainOfResponsability/e18_servicio_de_software_2P)
+-  [Ejercicio 19: Software de Carnetización (Segundo Parcial)](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/chainOfResponsability/e19_software_de_carnetizacion_2P)
+-  [Ejercicio 20: Algoritmos de Ordenamiento (Segundo Parcial)](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/chainOfResponsability/e20_algoritmos_de_ordenamiento)
+-  [Ejercicio 21: Secuencia de Comandos de un Videojuego (Segundo Parcial)](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/command/e21_comandos_videojuegos_2P)
 
 ### Extras
 -  [Ejercicio EXTRA: Switch Case Utilizando Enum](https://github.com/AleS900/Design_Patterns/blob/main/src/main/java/Extras/Switch_Enum.java)
