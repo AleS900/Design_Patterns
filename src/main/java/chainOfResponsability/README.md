@@ -1,9 +1,9 @@
 # Patrón De Diseño Chain Of Responsibility
 
 ## Ejercicios
--  [Ejercicio 18: Servicio de Software](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/interpreter/e6_numeros_romanos)
--  [Ejercicio 19: Software de Carnetización](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/interpreter/e6_numeros_romanos)
--  [Ejercicio 20: Algoritmos de Ordenamiento](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/interpreter/e6_numeros_romanos)
+-  [Ejercicio 18: Servicio de Software](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/chainOfResponsability/e18_servicio_de_software_2P)
+-  [Ejercicio 19: Software de Carnetización](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/chainOfResponsability/e19_software_de_carnetizacion_2P)
+-  [Ejercicio 20: Algoritmos de Ordenamiento](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/chainOfResponsability/e20_algoritmos_de_ordenamiento)
 
 ## Introducción
 El **interpreter** es un *patrón de diseño* ***de comportamiento*** que, dado un lenguaje, define una representación para su gramática junto con un intérprete del lenguaje.
