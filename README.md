@@ -39,6 +39,8 @@ Los patrones de comportamiento tratan con algoritmos y la asignación de respons
 -  [Iterator](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/iterator)
 -  [Mediator](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/mediator)
 -  [Memento](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/memento)
+-  [Chain of Responsibility](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/chainOfResponsability)
+-  [Command](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/command)
 
 ## Ejercicios
 ### Patrones de Diseño Creacionales
