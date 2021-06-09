@@ -3,10 +3,7 @@
 Se tiene un juego donde se tienen acciones
 de **disparar**, **modo defensa** y **atacar**.
 
-Se desea mover estas acciones a comandos
-específicos y ejecutarlos en el mismo orden
-que se guardó (Usar solo un método para
-ejecutar todos los comandos guardados).
+### Se desea mover estas acciones a comandos específicos y ejecutarlos en el mismo orden que se guardó (Usar solo un método para ejecutar todos los comandos guardados).
 
 - *Disparar*
 ```
