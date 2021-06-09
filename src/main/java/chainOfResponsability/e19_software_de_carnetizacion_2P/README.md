@@ -21,7 +21,7 @@ Se tiene un *software* que controla el proceso de
   requisitos.
   
   ### Realizar un ejemplo de cada una de estas situaciones.
-   </br>
+  </br>
  <p align="center">
     <img src="https://github.com/AleS900/prueba/blob/master/assets/e01_carnet.png" />
  </p>
