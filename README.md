@@ -41,6 +41,7 @@ Los patrones de comportamiento tratan con algoritmos y la asignación de respons
 -  [Memento](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/memento)
 -  [Chain of Responsibility](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/chainOfResponsability)
 -  [Command](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/command)
+-  [Observer](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/observer)
 
 ## Ejercicios
 ### Patrones de Diseño Creacionales
@@ -65,6 +66,7 @@ Los patrones de comportamiento tratan con algoritmos y la asignación de respons
 -  [Ejercicio 19: Software de Carnetización (Segundo Parcial)](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/chainOfResponsability/e19_software_de_carnetizacion_2P)
 -  [Ejercicio 20: Algoritmos de Ordenamiento (Segundo Parcial)](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/chainOfResponsability/e20_algoritmos_de_ordenamiento)
 -  [Ejercicio 21: Secuencia de Comandos de un Videojuego (Segundo Parcial)](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/command/e21_comandos_videojuegos_2P)
+-  [Ejercicio 22: Notificaciones Empresa Telefónica (Segundo Parcial)](https://github.com/AleS900/Design_Patterns/tree/main/src/main/java/observer/e22_empresa_telefonica_2P)
 
 ### Extras
 -  [Ejercicio EXTRA: Switch Case Utilizando Enum](https://github.com/AleS900/Design_Patterns/blob/main/src/main/java/Extras/Switch_Enum.java)
