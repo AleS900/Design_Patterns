@@ -1,8 +1,7 @@
 # Ejercicio 18 - Servicio de Software
 
 Se tiene un *servicio de software* puesto en
-producción, cuando el cliente realiza una
-solicitud a la empresa se tiene que:
+producción, cuando el cliente realiza una solicitud a la empresa se tiene que:
 
 - Si la solicitud es relacionada a **infraestructura** el encargado de resolverlo es el *DevOps* (Se pide información sobre el error).
 - Si es de tipo **bug** o **mejora** el encargado de evaluarlo en el *QA* (Se aísla el error).
