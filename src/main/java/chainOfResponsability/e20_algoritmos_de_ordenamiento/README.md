@@ -7,9 +7,9 @@ las personas ascendentemente por edad, dependiendo
 a la cantidad de datos en el arreglo se desea
 utilizar uno de los algoritmos.
 
-* Arreglo con un máximo de 20 personas usar el Algoritmo-1
-* Arreglo con un máximo de 50 personas usar el Algoritmo-2
-* Arreglo con más de 50 personas usar el Algoritmo-3
+* Arreglo con un máximo de 20 personas usar el Algoritmo 1 / **Selection Sort**.
+* Arreglo con un máximo de 50 personas usar el Algoritmo 2 / **Bubble Sort**.
+* Arreglo con más de 50 personas usar el Algoritmo 3 / **Insertion Sort**.
 
 ### Imprimir los arreglos ya ordenados.</br>
  <p align="center">
