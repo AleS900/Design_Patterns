@@ -6,7 +6,7 @@ de la empresa (**precios, promociones, premios, noticias**),
 pero cada uno de los cliente puede elegir filtrar
 algunos tipos de notificaciones o no recibir ninguna.
 ```
- - IObserver        ----  Cliente
+- IObserver        ----  Cliente
 ```
 ```
 - ISubject         ----  Empresa telefónica
