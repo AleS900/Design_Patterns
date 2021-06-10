@@ -1,7 +1,5 @@
 package state.e23_estados_de_una_computadora_2P;
 
-import chainOfResponsability.e20_algoritmos_de_ordenamiento.Persona;
-
 public class Client {
     public static void main(String []args){
         Programa p1 = new Programa(1,"Chrome");
@@ -24,7 +22,7 @@ public class Client {
         Programa p18 = new Programa(18,"Zoom");
         Programa p19 = new Programa(19,"Discord");
         Programa p20 = new Programa(20,"Power Point");
-        Programa p21 = new Programa(21,"Power Point");
+        Programa p21 = new Programa(21,"Avast");
         Programa[] arr = {p1,p2,p3,p4,p5,p6,p7,p8,p9,p10,p11,p12,p13,p14,p15,p16,p17,p18,p19,p20,p21};
         ArregloProgramas arr_p = new ArregloProgramas("ARR_1",arr);
 
