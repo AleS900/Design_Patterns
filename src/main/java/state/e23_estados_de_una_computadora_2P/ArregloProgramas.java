@@ -31,9 +31,7 @@ public class ArregloProgramas {
     public void showInfo(int number){
         for(int i=0; i<number; i++){
             int numero = (int)(Math.random() * number+1);
-            if (){
                 System.out.println("Programa abierto: " + arr_data[(int)(Math.random()*number+1)].getProg_name());
-            }
         }
         System.out.println("*********************\n");
     }
