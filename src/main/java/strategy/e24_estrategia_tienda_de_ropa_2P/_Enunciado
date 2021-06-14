@@ -1,0 +1,11 @@
+Ejercicio 24
+
+Se tiene una tienda de ropas (Tipo, Precio)
+cada ocasión que cambia de estación
+(Invierno, Verano, Primavera, Otoño) también
+cambia su estrategia de ventas y precios; en
+invierno la ropa sube un 10% de su precio
+original, cuando la estacion es verano toda
+la ropa rebaja un 10%, en caso de primavera
+los precios se mantienen, y en otoño los
+precios bajan 50%.
