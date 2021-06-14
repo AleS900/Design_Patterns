@@ -360,8 +360,8 @@ abstractFactory/e14_inscripcion_a_cursos/FactoryCurso.java
  abstractFactory.e14_inscripcion_a_cursos.FactoryCurso
  abstractFactory.e14_inscripcion_a_cursos.FactoryCurso$1
  abstractFactory.e14_inscripcion_a_cursos.FactoryCurso$typeCourse
-singleton/e11_ventanilla_de_pago/Colegio.java
- singleton.e11_ventanilla_de_pago.Colegio
+patternCombinations/e27_repositorio_de_github_2P/MMGitOriginator.java
+ patternCombinations.e27_repositorio_de_github_2P.MMGitOriginator
 patternCombinations/e27_repositorio_de_github_2P/Memento.java
  patternCombinations.e27_repositorio_de_github_2P.Memento
 state/e23_estados_de_una_computadora_2P/Programa.java
@@ -411,8 +411,8 @@ builder/e10_restaurante_de_parrillas/ParrillaLomito.java
  builder.e10_restaurante_de_parrillas.ParrillaLomito
 chainOfResponsability/e26_cadena_de_mando_ejercito_2P/OrdenDeMando.java
  chainOfResponsability.e26_cadena_de_mando_ejercito_2P.OrdenDeMando
-singleton/e11_ventanilla_de_pago/Ventanilla.java
- singleton.e11_ventanilla_de_pago.Ventanilla
+patternCombinations/e27_repositorio_de_github_2P/Client.java
+ patternCombinations.e27_repositorio_de_github_2P.Client
 factoryMethod/e13_kit_utiles_escolares/CreatorKitColegial.java
  factoryMethod.e13_kit_utiles_escolares.CreatorKitColegial
 iterator/e8_empresa_de_software/ListaEmpleadosArray.java
@@ -425,7 +425,19 @@ patternCombinations/e27_repositorio_de_github_2P/OBSDesarrollador.java
  patternCombinations.e27_repositorio_de_github_2P.OBSDesarrollador
 patternCombinations/e27_repositorio_de_github_2P/ISubjectGitHub.java
  patternCombinations.e27_repositorio_de_github_2P.ISubjectGitHub
-patternCombinations/e27_repositorio_de_github_2P/Client.java
- patternCombinations.e27_repositorio_de_github_2P.Client
-patternCombinations/e27_repositorio_de_github_2P/MMGitOriginator.java
- patternCombinations.e27_repositorio_de_github_2P.MMGitOriginator
+singleton/e11_ventanilla_de_pago/Colegio.java
+ singleton.e11_ventanilla_de_pago.Colegio
+singleton/e11_ventanilla_de_pago/Ventanilla.java
+ singleton.e11_ventanilla_de_pago.Ventanilla
+singleton/e30_prestamo_bancario_2P/Banco.java
+ singleton.e30_prestamo_bancario_2P.Banco
+singleton/e30_prestamo_bancario_2P/Persona.java
+ singleton.e30_prestamo_bancario_2P.Persona
+singleton/e30_prestamo_bancario_2P/Client.java
+ singleton.e30_prestamo_bancario_2P.Client
+ singleton.e30_prestamo_bancario_2P.Client$1
+ singleton.e30_prestamo_bancario_2P.Client$2
+ singleton.e30_prestamo_bancario_2P.Client$3
+ singleton.e30_prestamo_bancario_2P.Client$4
+ singleton.e30_prestamo_bancario_2P.Client$5
+ singleton.e30_prestamo_bancario_2P.Client$6

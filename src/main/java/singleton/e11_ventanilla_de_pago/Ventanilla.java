@@ -1,7 +1,6 @@
 package singleton.e11_ventanilla_de_pago;
 
 public class Ventanilla {
-
     private static Ventanilla instance = null;
     private Cajero cashier;
     private int balance;
