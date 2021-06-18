@@ -1,9 +1,9 @@
 package visitor.e32_visitante_librecambista_PF;
 
-public class Argentina implements IPais{
+public class Brasil implements IPais{
     private double mountOfMoney;
 
-    public Argentina() {
+    public Brasil() {
     }
 
     @Override

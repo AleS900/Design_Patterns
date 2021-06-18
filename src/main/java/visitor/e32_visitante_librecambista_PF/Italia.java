@@ -1,10 +1,9 @@
 package visitor.e32_visitante_librecambista_PF;
 
-public class Italia extends PaisDeEuropa{
-    private double coinValue;
-    private String nombre;
+public class Italia implements IPais{
+    private double mountOfMoney;
     private boolean is_membership;
-    private String coinName;
+    private double coin_value;
 
     public Italia() {
     }
@@ -14,31 +13,18 @@ public class Italia extends PaisDeEuropa{
         visitante.cambiandoMoneda(this);
     }
 
-    @Override
     public void miembroDeLaUnionEuropea(Boolean isTrue) {
         if(isTrue){
-            this.setCoinValue(1.19);
+            this.setCoin_value(1.190);
         }
     }
 
-    public void valorFrenteAlDolar(double valor) {
-        this.setCoinValue(valor);
+    public double getMountOfMoney() {
+        return mountOfMoney;
     }
 
-    public double getCoinValue() {
-        return coinValue;
-    }
-
-    public void setCoinValue(double coinValue) {
-        this.coinValue = coinValue;
-    }
-
-    public String getNombre() {
-        return nombre;
-    }
-
-    public void setNombre(String nombre) {
-        this.nombre = nombre;
+    public void setMountOfMoney(double mountOfMoney) {
+        this.mountOfMoney = mountOfMoney;
     }
 
     public boolean isIs_membership() {
@@ -49,11 +35,11 @@ public class Italia extends PaisDeEuropa{
         this.is_membership = is_membership;
     }
 
-    public String getCoinName() {
-        return coinName;
+    public double getCoin_value() {
+        return coin_value;
     }
 
-    public void setCoinName(String coinName) {
-        this.coinName = coinName;
+    public void setCoin_value(double coin_value) {
+        this.coin_value = coin_value;
     }
 }

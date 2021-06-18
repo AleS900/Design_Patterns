@@ -1,9 +1,7 @@
 package visitor.e32_visitante_librecambista_PF;
 
-public class Bolivia extends PaisDelSur{
-    private double coinValue;
-    private String nombre;
-    private String coinName;
+public class Bolivia implements IPais{
+    private double mountOfMoney;
 
     public Bolivia() {
     }
@@ -13,32 +11,12 @@ public class Bolivia extends PaisDelSur{
         visitante.cambiandoMoneda(this);
     }
 
-    @Override
-    public void valorFrenteAlDolar(double valor) {
-        setCoinValue(valor);
+    public double getMountOfMoney() {
+        return mountOfMoney;
     }
 
-    public double getCoinValue() {
-        return coinValue;
+    public void setMountOfMoney(double mountOfMoney) {
+        this.mountOfMoney = mountOfMoney;
     }
 
-    public void setCoinValue(double coinValue) {
-        this.coinValue = coinValue;
-    }
-
-    public String getNombre() {
-        return nombre;
-    }
-
-    public void setNombre(String nombre) {
-        this.nombre = nombre;
-    }
-
-    public String getCoinName() {
-        return coinName;
-    }
-
-    public void setCoinName(String coinName) {
-        this.coinName = coinName;
-    }
 }

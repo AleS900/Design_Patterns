@@ -1,31 +1,35 @@
 package visitor.e32_visitante_librecambista_PF;
 
-public class Librecambista implements IVisitante{
-    @Override
-    public void cambiandoMoneda(PaisDelSur paisDelSur) {
-        if(paisDelSur instanceof Argentina){
-            Argentina argentina = (Argentina)paisDelSur;
-            System.out.println("Se esta en un país de América del Sur,");
-            System.out.println("en este caso en:  " + argentina.getNombre() + " ,");
-            System.out.println(argentina.getCoinName() + " a dólares: " + argentina.getCoinValue());
-        } else if (paisDelSur instanceof Bolivia){
-            Bolivia boliva = (Bolivia)paisDelSur;
-            System.out.println("Se esta en un país de América del Sur,");
-            System.out.println("en este caso en  ");
-            System.out.println("Se esta en un país de América del Sur,");
-        }else if (paisDelSur instanceof Brazil){
-            Brazil brazil = (Brazil)paisDelSur;
-            System.out.println("Se esta en un país de América del Sur,");
-            System.out.println("en este caso en  ");
-            System.out.println("Se esta en un país de América del Sur,");
-        } else {
-            System.out.println("No se tiene datso de este pais");
-        }
+import java.text.DecimalFormat;
 
+public class Librecambista implements IVisitante{
+    DecimalFormat formato = new DecimalFormat("#.00");
+
+    @Override
+    public void cambiandoMoneda(Argentina argentina) {
+        System.out.println("Se esta en un país de América del Sur,");
+        System.out.println("en este caso en Argentina, se tiene un monto de: " + argentina.getMountOfMoney() + " ARS");
+        System.out.println("De Pesos Argentinos a Dólares: " + formato.format(0.0104 * argentina.getMountOfMoney()) + " $us");
     }
 
     @Override
-    public void cambiandoMoneda(PaisDeEuropa paisDeEuropa) {
+    public void cambiandoMoneda(Bolivia bolivia) {
+        System.out.println("\nSe esta en un país de América del Sur,");
+        System.out.println("en este caso en: Bolivia, se tiene un monto de: " + bolivia.getMountOfMoney() + " Bs");
+        System.out.println("De Bolivianos a Dólares: " + formato.format(0.14338 * bolivia.getMountOfMoney()) + " $us");
+    }
 
+    @Override
+    public void cambiandoMoneda(Brasil brasil) {
+        System.out.println("\nSe esta en un país de América del Sur,");
+        System.out.println("en este caso en: Brasil, se tiene un monto de: " + brasil.getMountOfMoney() + " BRL");
+        System.out.println("De Reales Brasileños a Dólares: " + formato.format(0.1996 * brasil.getMountOfMoney()) + " $us");
+    }
+
+    @Override
+    public void cambiandoMoneda(Italia italia) {
+        System.out.println("\nSe esta en un país de Europa,");
+        System.out.println("en este caso en Italia, se tiene un monto de: " + italia.getMountOfMoney() + " EUR");
+        System.out.println("De Euros a Dólares: " + formato.format(italia.getCoin_value() * italia.getMountOfMoney()) + " $us");
     }
 }

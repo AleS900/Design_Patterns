@@ -457,3 +457,19 @@ visitor/e31_plugin_editor_de_texto_PF/Sublime.java
  visitor.e31_plugin_editor_de_texto_PF.Sublime
 visitor/e31_plugin_editor_de_texto_PF/EditorDeTexto.java
  visitor.e31_plugin_editor_de_texto_PF.EditorDeTexto
+visitor/e32_visitante_librecambista_PF/IVisitante.java
+ visitor.e32_visitante_librecambista_PF.IVisitante
+visitor/e32_visitante_librecambista_PF/IPais.java
+ visitor.e32_visitante_librecambista_PF.IPais
+visitor/e32_visitante_librecambista_PF/Bolivia.java
+ visitor.e32_visitante_librecambista_PF.Bolivia
+visitor/e32_visitante_librecambista_PF/Italia.java
+ visitor.e32_visitante_librecambista_PF.Italia
+visitor/e32_visitante_librecambista_PF/Argentina.java
+ visitor.e32_visitante_librecambista_PF.Argentina
+visitor/e32_visitante_librecambista_PF/Brasil.java
+ visitor.e32_visitante_librecambista_PF.Brasil
+visitor/e32_visitante_librecambista_PF/Client.java
+ visitor.e32_visitante_librecambista_PF.Client
+visitor/e32_visitante_librecambista_PF/Librecambista.java
+ visitor.e32_visitante_librecambista_PF.Librecambista
