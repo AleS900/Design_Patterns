@@ -1,0 +1,14 @@
+Ejercicio 32
+
+(Visitor)
+Se tiene muchos paises en en la región del
+sur (Bolivia, Argentina, Brasil) y uno en
+Europa (Italia) que forman parte de la
+ruta de un visitante que hace el rol de
+librecambista, este visitante realiza
+cambio de moneda dependiendo en que país
+se encuentra (de moneda local del país a
+dólares y viceversa).
+
+Realizar el cambio de dólar a otra moneda
+usando 2 decimales.

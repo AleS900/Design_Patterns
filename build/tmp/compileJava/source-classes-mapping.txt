@@ -441,3 +441,19 @@ singleton/e30_prestamo_bancario_2P/Client.java
  singleton.e30_prestamo_bancario_2P.Client$4
  singleton.e30_prestamo_bancario_2P.Client$5
  singleton.e30_prestamo_bancario_2P.Client$6
+visitor/e31_plugin_editor_de_texto_PF/IEditorDeTexto.java
+ visitor.e31_plugin_editor_de_texto_PF.IEditorDeTexto
+visitor/e31_plugin_editor_de_texto_PF/Word.java
+ visitor.e31_plugin_editor_de_texto_PF.Word
+visitor/e31_plugin_editor_de_texto_PF/Notepad.java
+ visitor.e31_plugin_editor_de_texto_PF.Notepad
+visitor/e31_plugin_editor_de_texto_PF/Client.java
+ visitor.e31_plugin_editor_de_texto_PF.Client
+visitor/e31_plugin_editor_de_texto_PF/IPlugin.java
+ visitor.e31_plugin_editor_de_texto_PF.IPlugin
+visitor/e31_plugin_editor_de_texto_PF/Plugin.java
+ visitor.e31_plugin_editor_de_texto_PF.Plugin
+visitor/e31_plugin_editor_de_texto_PF/Sublime.java
+ visitor.e31_plugin_editor_de_texto_PF.Sublime
+visitor/e31_plugin_editor_de_texto_PF/EditorDeTexto.java
+ visitor.e31_plugin_editor_de_texto_PF.EditorDeTexto

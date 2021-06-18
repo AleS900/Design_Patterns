@@ -1,0 +1,13 @@
+Ejercicio 31
+
+Se tiene una estructura de software editores
+de texto (Word, Notepad, Sublime) estos
+editores tiene los métodos de crear, editar,
+eliminar.
+
+A estos editores se le desea agregar un
+nuevo método (Visitante) que es un plugin con
+funcionalidad guardar el documento guardado
+en formato PDF, cuando se guarda el archivo
+también se guarda la cantidad de carácteres
+que tiene el documento.
