@@ -1,4 +1,4 @@
-package adapter.e33_tienda_de_aparatos_electronicos_PF;
+package adapter.e33_empresas_de_aparatos_electronicos_PF;
 
 public class Celular implements IElectrodomesticosPrimeraEmpresa {
     private String phone_trademark;
