@@ -1,0 +1,11 @@
+Ejercicio 33
+
+(Adapter)
+Se tiene una empresa de artefactos electrónicos
+(celulares, tabletas, computadoras; con los
+métodos: Precio / Tiempo De Vida) esta empresa
+absorbe otra empresa de artefactos electrónicos
+(televisores, lavadoras, refrigeradores, que
+poseen los métodos: Costo / Tiempo De Garantía)
+ambas estructuras son diferentes pero se desea
+adaptar a la primera estructura.
