@@ -1,7 +1,5 @@
 # Ejercicio 35 - Tarjeta De Crédito Proxy
 
-Ejercicio 35
-
 (Proxy)
 Se tiene una *cuenta en un banco* donde
 una persona debe sacar el **dinero** para
