@@ -12,8 +12,8 @@ contenedores de computadoras.
 Cuando se crean estos se requiere saber
 el precio total de cada 1.
 
-        computadora
+- Computadora
 
-        laboratorios / contenedores
+- Laboratorios / Contenedores
 
-        Artefactos Electronicos --- Padre---> Component
+- Artefactos Electronicos --- Padre---> Component
