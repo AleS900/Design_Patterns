@@ -1,0 +1,17 @@
+Ejercicio 39
+
+(Bridge)
+Se tiene una empresa que realiza instalación
+eléctrica (Agregar Atributos, Precio), instalación
+de agua (Agregar Atributos, Precio) e instalación
+de alcantarillado (Agregar Atributos, Precio).
+
+Originalmente solo acepta pagos de estos servicios
+en efectivo, pero luego se necesita tener nuevas
+formas de pago que no necesita presencia como ser:
+pago por transferencia bancaria (Tiene descuento
+del 5% del precio de la instalación), pago por Tigo
+Money (tiene descuento del 2%), pago usando la aplicación
+de la empresa(tiene descuento de 10%) nota: tome en
+cuenta que posteriormente se pueden agregar mas
+formas de pago.
