@@ -3,7 +3,7 @@ package composite.e40_archivos_carpetas_disco_PF;
 public class Client {
     public static void main(String[] args) {
 
-        CompositeAlmacenamiento file_a = new CompositeAlmacenamiento("Patrón_de_Diseño_Composite", "pdf", "A A A A A A A A A A A A", "Archivo");
+        CompositeAlmacenamiento file_a = new CompositeAlmacenamiento("Patrón_de_Diseño_Composite", "pdf", "A", "Archivo");
         CompositeAlmacenamiento file_b = new CompositeAlmacenamiento("Patrón_de_Diseño_Visitor", "txt", 4, "Archivo");
         CompositeAlmacenamiento file_c = new CompositeAlmacenamiento("Patrón_de_Diseño_Decorator", "docx", "B B B B B", "Archivo");
         CompositeAlmacenamiento file_d = new CompositeAlmacenamiento("Patrón_de_Diseño_Bridge", "tex", "C C C C C C C C C C C C C C C C", "Archivo");
