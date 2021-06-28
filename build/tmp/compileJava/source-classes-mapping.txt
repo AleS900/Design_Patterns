@@ -603,3 +603,15 @@ composite/e40_archivos_carpetas_disco_PF/Archivo.java
  composite.e40_archivos_carpetas_disco_PF.Archivo
 composite/e40_archivos_carpetas_disco_PF/Client.java
  composite.e40_archivos_carpetas_disco_PF.Client
+proxy/e41_servidores_de_un_cluster_PF/Client.java
+ proxy.e41_servidores_de_un_cluster_PF.Client
+proxy/e41_servidores_de_un_cluster_PF/ProxyDeAlmacenamiento.java
+ proxy.e41_servidores_de_un_cluster_PF.ProxyDeAlmacenamiento
+proxy/e41_servidores_de_un_cluster_PF/ICluster.java
+ proxy.e41_servidores_de_un_cluster_PF.ICluster
+proxy/e41_servidores_de_un_cluster_PF/Servidor2.java
+ proxy.e41_servidores_de_un_cluster_PF.Servidor2
+proxy/e41_servidores_de_un_cluster_PF/Servidor1.java
+ proxy.e41_servidores_de_un_cluster_PF.Servidor1
+proxy/e41_servidores_de_un_cluster_PF/UsuarioRegistrado.java
+ proxy.e41_servidores_de_un_cluster_PF.UsuarioRegistrado
